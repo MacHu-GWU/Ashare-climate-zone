@@ -1,0 +1,3142 @@
+climate_zone	county
+1	Broward County, Florida
+1	Hawaii County, Hawaii
+1	Honolulu County, Hawaii
+1	Kalawao County, Hawaii
+1	Kauai County, Hawaii
+1	Maui County, Hawaii
+1	Miami-Dade County, Florida
+1	Monroe County, Florida
+2	Acadia Parish, Louisiana
+2	Alachua County, Florida
+2	Allen Parish, Louisiana
+2	Anderson County, Texas
+2	Angelina County, Texas
+2	Appling County, Georgia
+2	Aransas County, Texas
+2	Ascension Parish, Louisiana
+2	Assumption Parish, Louisiana
+2	Atascosa County, Texas
+2	Atkinson County, Georgia
+2	Austin County, Texas
+2	Avoyelles Parish, Louisiana
+2	Bacon County, Georgia
+2	Baker County, Florida
+2	Baker County, Georgia
+2	Baldwin County, Alabama
+2	Bandera County, Texas
+2	Bastrop County, Texas
+2	Bay County, Florida
+2	Beauregard Parish, Louisiana
+2	Bee County, Texas
+2	Bell County, Texas
+2	Berrien County, Georgia
+2	Bexar County, Texas
+2	Bosque County, Texas
+2	Bradford County, Florida
+2	Brantley County, Georgia
+2	Brazoria County, Texas
+2	Brazos County, Texas
+2	Brevard County, Florida
+2	Brooks County, Georgia
+2	Brooks County, Texas
+2	Bryan County, Georgia
+2	Burleson County, Texas
+2	Calcasieu Parish, Louisiana
+2	Caldwell County, Texas
+2	Calhoun County, Florida
+2	Calhoun County, Texas
+2	Camden County, Georgia
+2	Cameron County, Texas
+2	Cameron Parish, Louisiana
+2	Chambers County, Texas
+2	Charlotte County, Florida
+2	Charlton County, Georgia
+2	Chatham County, Georgia
+2	Cherokee County, Texas
+2	Citrus County, Florida
+2	Clay County, Florida
+2	Clinch County, Georgia
+2	Collier County, Florida
+2	Colorado County, Texas
+2	Colquitt County, Georgia
+2	Columbia County, Florida
+2	Comal County, Texas
+2	Cook County, Georgia
+2	Coryell County, Texas
+2	DeSoto County, Florida
+2	DeWitt County, Texas
+2	Decatur County, Georgia
+2	Dimmit County, Texas
+2	Dixie County, Florida
+2	Duval County, Florida
+2	Duval County, Texas
+2	East Baton Rouge Parish, Louisiana
+2	East Feliciana Parish, Louisiana
+2	Echols County, Georgia
+2	Edwards County, Texas
+2	Effingham County, Georgia
+2	Escambia County, Florida
+2	Evangeline Parish, Louisiana
+2	Evans County, Georgia
+2	Falls County, Texas
+2	Fayette County, Texas
+2	Flagler County, Florida
+2	Fort Bend County, Texas
+2	Franklin County, Florida
+2	Freestone County, Texas
+2	Frio County, Texas
+2	Gadsden County, Florida
+2	Galveston County, Texas
+2	Gilchrist County, Florida
+2	Glades County, Florida
+2	Glynn County, Georgia
+2	Goliad County, Texas
+2	Gonzales County, Texas
+2	Grady County, Georgia
+2	Grimes County, Texas
+2	Guadalupe County, Texas
+2	Gulf County, Florida
+2	Hamilton County, Florida
+2	Hancock County, Mississippi
+2	Hardee County, Florida
+2	Hardin County, Texas
+2	Harris County, Texas
+2	Harrison County, Mississippi
+2	Hays County, Texas
+2	Hendry County, Florida
+2	Hernando County, Florida
+2	Hidalgo County, Texas
+2	Highlands County, Florida
+2	Hill County, Texas
+2	Hillsborough County, Florida
+2	Holmes County, Florida
+2	Houston County, Texas
+2	Iberia Parish, Louisiana
+2	Iberville Parish, Louisiana
+2	Imperial County, California
+2	Indian River County, Florida
+2	Jackson County, Florida
+2	Jackson County, Mississippi
+2	Jackson County, Texas
+2	Jasper County, Texas
+2	Jeff Davis County, Georgia
+2	Jefferson County, Florida
+2	Jefferson County, Texas
+2	Jefferson Davis Parish, Louisiana
+2	Jefferson Parish, Louisiana
+2	Jim Hogg County, Texas
+2	Jim Wells County, Texas
+2	Karnes County, Texas
+2	Kenedy County, Texas
+2	Kinney County, Texas
+2	Kleberg County, Texas
+2	La Paz County, Arizona
+2	La Salle County, Texas
+2	Lafayette County, Florida
+2	Lafayette Parish, Louisiana
+2	Lafourche Parish, Louisiana
+2	Lake County, Florida
+2	Lanier County, Georgia
+2	Lavaca County, Texas
+2	Lee County, Florida
+2	Lee County, Texas
+2	Leon County, Florida
+2	Leon County, Texas
+2	Levy County, Florida
+2	Liberty County, Florida
+2	Liberty County, Georgia
+2	Liberty County, Texas
+2	Limestone County, Texas
+2	Live Oak County, Texas
+2	Livingston Parish, Louisiana
+2	Long County, Georgia
+2	Lowndes County, Georgia
+2	Madison County, Florida
+2	Madison County, Texas
+2	Manatee County, Florida
+2	Maricopa County, Arizona
+2	Marion County, Florida
+2	Martin County, Florida
+2	Matagorda County, Texas
+2	Maverick County, Texas
+2	McIntosh County, Georgia
+2	McLennan County, Texas
+2	McMullen County, Texas
+2	Medina County, Texas
+2	Milam County, Texas
+2	Miller County, Georgia
+2	Mitchell County, Georgia
+2	Mobile County, Alabama
+2	Montgomery County, Texas
+2	Nassau County, Florida
+2	Newton County, Texas
+2	Nueces County, Texas
+2	Okaloosa County, Florida
+2	Okeechobee County, Florida
+2	Orange County, Florida
+2	Orange County, Texas
+2	Orleans Parish, Louisiana
+2	Osceola County, Florida
+2	Palm Beach County, Florida
+2	Pasco County, Florida
+2	Pearl River County, Mississippi
+2	Pierce County, Georgia
+2	Pima County, Arizona
+2	Pinal County, Arizona
+2	Pinellas County, Florida
+2	Plaquemines Parish, Louisiana
+2	Pointe Coupee Parish, Louisiana
+2	Polk County, Florida
+2	Polk County, Texas
+2	Putnam County, Florida
+2	Rapides Parish, Louisiana
+2	Real County, Texas
+2	Refugio County, Texas
+2	Robertson County, Texas
+2	San Jacinto County, Texas
+2	San Patricio County, Texas
+2	Santa Rosa County, Florida
+2	Sarasota County, Florida
+2	Seminole County, Florida
+2	Seminole County, Georgia
+2	St. Bernard Parish, Louisiana
+2	St. Charles Parish, Louisiana
+2	St. Helena Parish, Louisiana
+2	St. James Parish, Louisiana
+2	St. John the Baptist Parish, Louisiana
+2	St. Johns County, Florida
+2	St. Landry Parish, Louisiana
+2	St. Lucie County, Florida
+2	St. Martin Parish, Louisiana
+2	St. Mary Parish, Louisiana
+2	St. Tammany Parish, Louisiana
+2	Starr County, Texas
+2	Stone County, Mississippi
+2	Sumter County, Florida
+2	Suwannee County, Florida
+2	Tangipahoa Parish, Louisiana
+2	Tattnall County, Georgia
+2	Taylor County, Florida
+2	Terrebonne Parish, Louisiana
+2	Thomas County, Georgia
+2	Toombs County, Georgia
+2	Travis County, Texas
+2	Trinity County, Texas
+2	Tyler County, Texas
+2	Union County, Florida
+2	Uvalde County, Texas
+2	Val Verde County, Texas
+2	Vermilion Parish, Louisiana
+2	Victoria County, Texas
+2	Volusia County, Florida
+2	Wakulla County, Florida
+2	Walker County, Texas
+2	Waller County, Texas
+2	Walton County, Florida
+2	Ware County, Georgia
+2	Washington County, Florida
+2	Washington County, Texas
+2	Washington Parish, Louisiana
+2	Wayne County, Georgia
+2	Webb County, Texas
+2	West Baton Rouge Parish, Louisiana
+2	West Feliciana Parish, Louisiana
+2	Wharton County, Texas
+2	Willacy County, Texas
+2	Williamson County, Texas
+2	Wilson County, Texas
+2	Yuma County, Arizona
+2	Zapata County, Texas
+2	Zavala County, Texas
+3	Abbeville County, South Carolina
+3	Adair County, Oklahoma
+3	Adams County, Mississippi
+3	Aiken County, South Carolina
+3	Alameda County, California
+3	Alcorn County, Mississippi
+3	Alfalfa County, Oklahoma
+3	Allendale County, South Carolina
+3	Amite County, Mississippi
+3	Anderson County, South Carolina
+3	Andrews County, Texas
+3	Anson County, North Carolina
+3	Archer County, Texas
+3	Arkansas County, Arkansas
+3	Ashley County, Arkansas
+3	Atoka County, Oklahoma
+3	Attala County, Mississippi
+3	Autauga County, Alabama
+3	Baldwin County, Georgia
+3	Bamberg County, South Carolina
+3	Barbour County, Alabama
+3	Barnwell County, South Carolina
+3	Barrow County, Georgia
+3	Bartow County, Georgia
+3	Baylor County, Texas
+3	Beaufort County, North Carolina
+3	Beaufort County, South Carolina
+3	Beckham County, Oklahoma
+3	Ben Hill County, Georgia
+3	Benton County, Mississippi
+3	Berkeley County, South Carolina
+3	Bibb County, Alabama
+3	Bibb County, Georgia
+3	Bienville Parish, Louisiana
+3	Bladen County, North Carolina
+3	Blaine County, Oklahoma
+3	Blanco County, Texas
+3	Bleckley County, Georgia
+3	Blount County, Alabama
+3	Bolivar County, Mississippi
+3	Borden County, Texas
+3	Bossier Parish, Louisiana
+3	Bowie County, Texas
+3	Bradley County, Arkansas
+3	Brewster County, Texas
+3	Brown County, Texas
+3	Brunswick County, North Carolina
+3	Bryan County, Oklahoma
+3	Bulloch County, Georgia
+3	Bullock County, Alabama
+3	Burke County, Georgia
+3	Burnet County, Texas
+3	Butler County, Alabama
+3	Butte County, California
+3	Butts County, Georgia
+3	Cabarrus County, North Carolina
+3	Caddo County, Oklahoma
+3	Caddo Parish, Louisiana
+3	Caldwell Parish, Louisiana
+3	Calhoun County, Alabama
+3	Calhoun County, Arkansas
+3	Calhoun County, Georgia
+3	Calhoun County, Mississippi
+3	Calhoun County, South Carolina
+3	Callahan County, Texas
+3	Camden County, North Carolina
+3	Camp County, Texas
+3	Canadian County, Oklahoma
+3	Candler County, Georgia
+3	Carroll County, Georgia
+3	Carroll County, Mississippi
+3	Carter County, Oklahoma
+3	Carteret County, North Carolina
+3	Cass County, Texas
+3	Catahoula Parish, Louisiana
+3	Chambers County, Alabama
+3	Charleston County, South Carolina
+3	Chattahoochee County, Georgia
+3	Chaves County, New Mexico
+3	Cherokee County, Alabama
+3	Cherokee County, Georgia
+3	Cherokee County, Oklahoma
+3	Cherokee County, South Carolina
+3	Chester County, South Carolina
+3	Chester County, Tennessee
+3	Chesterfield County, South Carolina
+3	Chickasaw County, Mississippi
+3	Chicot County, Arkansas
+3	Childress County, Texas
+3	Chilton County, Alabama
+3	Choctaw County, Alabama
+3	Choctaw County, Mississippi
+3	Choctaw County, Oklahoma
+3	Chowan County, North Carolina
+3	Claiborne County, Mississippi
+3	Claiborne Parish, Louisiana
+3	Clarendon County, South Carolina
+3	Clark County, Arkansas
+3	Clark County, Nevada
+3	Clarke County, Alabama
+3	Clarke County, Georgia
+3	Clarke County, Mississippi
+3	Clay County, Alabama
+3	Clay County, Arkansas
+3	Clay County, Georgia
+3	Clay County, Mississippi
+3	Clay County, Texas
+3	Clayton County, Georgia
+3	Cleburne County, Alabama
+3	Cleburne County, Arkansas
+3	Cleveland County, Arkansas
+3	Cleveland County, Oklahoma
+3	Coahoma County, Mississippi
+3	Coal County, Oklahoma
+3	Cobb County, Georgia
+3	Cochise County, Arizona
+3	Coffee County, Alabama
+3	Coffee County, Georgia
+3	Coke County, Texas
+3	Colbert County, Alabama
+3	Coleman County, Texas
+3	Colleton County, South Carolina
+3	Collin County, Texas
+3	Collingsworth County, Texas
+3	Columbia County, Arkansas
+3	Columbia County, Georgia
+3	Columbus County, North Carolina
+3	Colusa County, California
+3	Comanche County, Oklahoma
+3	Comanche County, Texas
+3	Concho County, Texas
+3	Concordia Parish, Louisiana
+3	Conecuh County, Alabama
+3	Contra Costa County, California
+3	Conway County, Arkansas
+3	Cooke County, Texas
+3	Coosa County, Alabama
+3	Copiah County, Mississippi
+3	Cottle County, Texas
+3	Cotton County, Oklahoma
+3	Covington County, Alabama
+3	Covington County, Mississippi
+3	Coweta County, Georgia
+3	Craig County, Oklahoma
+3	Craighead County, Arkansas
+3	Crane County, Texas
+3	Craven County, North Carolina
+3	Crawford County, Arkansas
+3	Crawford County, Georgia
+3	Creek County, Oklahoma
+3	Crenshaw County, Alabama
+3	Crisp County, Georgia
+3	Crittenden County, Arkansas
+3	Crockett County, Tennessee
+3	Crockett County, Texas
+3	Crosby County, Texas
+3	Cross County, Arkansas
+3	Culberson County, Texas
+3	Cullman County, Alabama
+3	Cumberland County, North Carolina
+3	Currituck County, North Carolina
+3	Custer County, Oklahoma
+3	Dale County, Alabama
+3	Dallas County, Alabama
+3	Dallas County, Arkansas
+3	Dallas County, Texas
+3	Dare County, North Carolina
+3	Darlington County, South Carolina
+3	Davidson County, North Carolina
+3	Dawson County, Texas
+3	De Soto Parish, Louisiana
+3	DeKalb County, Alabama
+3	DeKalb County, Georgia
+3	DeSoto County, Mississippi
+3	Delaware County, Oklahoma
+3	Delta County, Texas
+3	Denton County, Texas
+3	Desha County, Arkansas
+3	Dewey County, Oklahoma
+3	Dickens County, Texas
+3	Dillon County, South Carolina
+3	Dodge County, Georgia
+3	Dona Ana County, New Mexico
+3	Dooly County, Georgia
+3	Dorchester County, South Carolina
+3	Dougherty County, Georgia
+3	Douglas County, Georgia
+3	Drew County, Arkansas
+3	Duplin County, North Carolina
+3	Dyer County, Tennessee
+3	Early County, Georgia
+3	East Carroll Parish, Louisiana
+3	Eastland County, Texas
+3	Ector County, Texas
+3	Eddy County, New Mexico
+3	Edgecombe County, North Carolina
+3	Edgefield County, South Carolina
+3	El Paso County, Texas
+3	Elbert County, Georgia
+3	Ellis County, Oklahoma
+3	Ellis County, Texas
+3	Elmore County, Alabama
+3	Emanuel County, Georgia
+3	Erath County, Texas
+3	Escambia County, Alabama
+3	Etowah County, Alabama
+3	Fairfield County, South Carolina
+3	Fannin County, Texas
+3	Faulkner County, Arkansas
+3	Fayette County, Alabama
+3	Fayette County, Georgia
+3	Fayette County, Tennessee
+3	Fisher County, Texas
+3	Florence County, South Carolina
+3	Foard County, Texas
+3	Forrest County, Mississippi
+3	Forsyth County, Georgia
+3	Franklin County, Alabama
+3	Franklin County, Arkansas
+3	Franklin County, Mississippi
+3	Franklin County, Texas
+3	Franklin Parish, Louisiana
+3	Fresno County, California
+3	Fulton County, Georgia
+3	Gaines County, Texas
+3	Garfield County, Oklahoma
+3	Garland County, Arkansas
+3	Garvin County, Oklahoma
+3	Garza County, Texas
+3	Gaston County, North Carolina
+3	Geneva County, Alabama
+3	George County, Mississippi
+3	Georgetown County, South Carolina
+3	Gillespie County, Texas
+3	Glascock County, Georgia
+3	Glasscock County, Texas
+3	Glenn County, California
+3	Grady County, Oklahoma
+3	Graham County, Arizona
+3	Grant County, Arkansas
+3	Grant County, Oklahoma
+3	Grant Parish, Louisiana
+3	Grayson County, Texas
+3	Greene County, Alabama
+3	Greene County, Arkansas
+3	Greene County, Georgia
+3	Greene County, Mississippi
+3	Greene County, North Carolina
+3	Greenlee County, Arizona
+3	Greenville County, South Carolina
+3	Greenwood County, South Carolina
+3	Greer County, Oklahoma
+3	Gregg County, Texas
+3	Grenada County, Mississippi
+3	Gwinnett County, Georgia
+3	Hale County, Alabama
+3	Hall County, Texas
+3	Hamilton County, Texas
+3	Hampton County, South Carolina
+3	Hancock County, Georgia
+3	Haralson County, Georgia
+3	Hardeman County, Tennessee
+3	Hardeman County, Texas
+3	Hardin County, Tennessee
+3	Harmon County, Oklahoma
+3	Harper County, Oklahoma
+3	Harris County, Georgia
+3	Harrison County, Texas
+3	Hart County, Georgia
+3	Haskell County, Oklahoma
+3	Haskell County, Texas
+3	Haywood County, Tennessee
+3	Heard County, Georgia
+3	Hemphill County, Texas
+3	Hempstead County, Arkansas
+3	Henderson County, Tennessee
+3	Henderson County, Texas
+3	Henry County, Alabama
+3	Henry County, Georgia
+3	Hidalgo County, New Mexico
+3	Hinds County, Mississippi
+3	Hoke County, North Carolina
+3	Holmes County, Mississippi
+3	Hood County, Texas
+3	Hopkins County, Texas
+3	Horry County, South Carolina
+3	Hot Spring County, Arkansas
+3	Houston County, Alabama
+3	Houston County, Georgia
+3	Howard County, Arkansas
+3	Howard County, Texas
+3	Hudspeth County, Texas
+3	Hughes County, Oklahoma
+3	Humphreys County, Mississippi
+3	Hunt County, Texas
+3	Hyde County, North Carolina
+3	Independence County, Arkansas
+3	Irion County, Texas
+3	Irwin County, Georgia
+3	Issaquena County, Mississippi
+3	Itawamba County, Mississippi
+3	Jack County, Texas
+3	Jackson County, Alabama
+3	Jackson County, Arkansas
+3	Jackson County, Georgia
+3	Jackson County, Oklahoma
+3	Jackson Parish, Louisiana
+3	Jasper County, Georgia
+3	Jasper County, Mississippi
+3	Jasper County, South Carolina
+3	Jeff Davis County, Texas
+3	Jefferson County, Alabama
+3	Jefferson County, Arkansas
+3	Jefferson County, Georgia
+3	Jefferson County, Mississippi
+3	Jefferson County, Oklahoma
+3	Jefferson Davis County, Mississippi
+3	Jenkins County, Georgia
+3	Johnson County, Arkansas
+3	Johnson County, Georgia
+3	Johnson County, Texas
+3	Johnston County, North Carolina
+3	Johnston County, Oklahoma
+3	Jones County, Georgia
+3	Jones County, Mississippi
+3	Jones County, North Carolina
+3	Jones County, Texas
+3	Kaufman County, Texas
+3	Kay County, Oklahoma
+3	Kemper County, Mississippi
+3	Kendall County, Texas
+3	Kent County, Texas
+3	Kern County, California
+3	Kerr County, Texas
+3	Kershaw County, South Carolina
+3	Kimble County, Texas
+3	King County, Texas
+3	Kingfisher County, Oklahoma
+3	Kings County, California
+3	Kiowa County, Oklahoma
+3	Knox County, Texas
+3	La Salle Parish, Louisiana
+3	Lafayette County, Arkansas
+3	Lafayette County, Mississippi
+3	Lake County, Tennessee
+3	Lamar County, Alabama
+3	Lamar County, Georgia
+3	Lamar County, Mississippi
+3	Lamar County, Texas
+3	Lampasas County, Texas
+3	Lancaster County, South Carolina
+3	Latimer County, Oklahoma
+3	Lauderdale County, Alabama
+3	Lauderdale County, Mississippi
+3	Lauderdale County, Tennessee
+3	Laurens County, Georgia
+3	Laurens County, South Carolina
+3	Lawrence County, Alabama
+3	Lawrence County, Arkansas
+3	Lawrence County, Mississippi
+3	Le Flore County, Oklahoma
+3	Lea County, New Mexico
+3	Leake County, Mississippi
+3	Lee County, Alabama
+3	Lee County, Arkansas
+3	Lee County, Georgia
+3	Lee County, Mississippi
+3	Lee County, South Carolina
+3	Leflore County, Mississippi
+3	Lenoir County, North Carolina
+3	Lexington County, South Carolina
+3	Limestone County, Alabama
+3	Lincoln County, Arkansas
+3	Lincoln County, Georgia
+3	Lincoln County, Mississippi
+3	Lincoln County, Oklahoma
+3	Lincoln Parish, Louisiana
+3	Little River County, Arkansas
+3	Llano County, Texas
+3	Logan County, Arkansas
+3	Logan County, Oklahoma
+3	Lonoke County, Arkansas
+3	Los Angeles County, California
+3	Love County, Oklahoma
+3	Loving County, Texas
+3	Lowndes County, Alabama
+3	Lowndes County, Mississippi
+3	Lubbock County, Texas
+3	Luna County, New Mexico
+3	Lynn County, Texas
+3	Macon County, Alabama
+3	Macon County, Georgia
+3	Madera County, California
+3	Madison County, Alabama
+3	Madison County, Georgia
+3	Madison County, Mississippi
+3	Madison County, Tennessee
+3	Madison Parish, Louisiana
+3	Major County, Oklahoma
+3	Marengo County, Alabama
+3	Marin County, California
+3	Marion County, Alabama
+3	Marion County, Georgia
+3	Marion County, Mississippi
+3	Marion County, South Carolina
+3	Marion County, Texas
+3	Marlboro County, South Carolina
+3	Marshall County, Alabama
+3	Marshall County, Mississippi
+3	Marshall County, Oklahoma
+3	Martin County, North Carolina
+3	Martin County, Texas
+3	Mason County, Texas
+3	Mayes County, Oklahoma
+3	McClain County, Oklahoma
+3	McCormick County, South Carolina
+3	McCulloch County, Texas
+3	McCurtain County, Oklahoma
+3	McDuffie County, Georgia
+3	McIntosh County, Oklahoma
+3	McNairy County, Tennessee
+3	Mecklenburg County, North Carolina
+3	Menard County, Texas
+3	Mendocino County, California
+3	Merced County, California
+3	Meriwether County, Georgia
+3	Midland County, Texas
+3	Miller County, Arkansas
+3	Mills County, Texas
+3	Mississippi County, Arkansas
+3	Mitchell County, Texas
+3	Mohave County, Arizona
+3	Monroe County, Alabama
+3	Monroe County, Arkansas
+3	Monroe County, Georgia
+3	Monroe County, Mississippi
+3	Montague County, Texas
+3	Monterey County, California
+3	Montgomery County, Alabama
+3	Montgomery County, Arkansas
+3	Montgomery County, Georgia
+3	Montgomery County, Mississippi
+3	Montgomery County, North Carolina
+3	Moore County, North Carolina
+3	Morehouse Parish, Louisiana
+3	Morgan County, Alabama
+3	Morgan County, Georgia
+3	Morris County, Texas
+3	Motley County, Texas
+3	Murray County, Oklahoma
+3	Muscogee County, Georgia
+3	Muskogee County, Oklahoma
+3	Nacogdoches County, Texas
+3	Napa County, California
+3	Natchitoches Parish, Louisiana
+3	Navarro County, Texas
+3	Neshoba County, Mississippi
+3	Nevada County, Arkansas
+3	New Hanover County, North Carolina
+3	Newberry County, South Carolina
+3	Newton County, Georgia
+3	Newton County, Mississippi
+3	Noble County, Oklahoma
+3	Nolan County, Texas
+3	Nowata County, Oklahoma
+3	Noxubee County, Mississippi
+3	Oconee County, Georgia
+3	Oconee County, South Carolina
+3	Oglethorpe County, Georgia
+3	Okfuskee County, Oklahoma
+3	Oklahoma County, Oklahoma
+3	Okmulgee County, Oklahoma
+3	Oktibbeha County, Mississippi
+3	Onslow County, North Carolina
+3	Orange County, California
+3	Orangeburg County, South Carolina
+3	Osage County, Oklahoma
+3	Otero County, New Mexico
+3	Ottawa County, Oklahoma
+3	Ouachita County, Arkansas
+3	Ouachita Parish, Louisiana
+3	Palo Pinto County, Texas
+3	Pamlico County, North Carolina
+3	Panola County, Mississippi
+3	Panola County, Texas
+3	Parker County, Texas
+3	Pasquotank County, North Carolina
+3	Paulding County, Georgia
+3	Pawnee County, Oklahoma
+3	Payne County, Oklahoma
+3	Peach County, Georgia
+3	Pecos County, Texas
+3	Pender County, North Carolina
+3	Perquimans County, North Carolina
+3	Perry County, Alabama
+3	Perry County, Arkansas
+3	Perry County, Mississippi
+3	Phillips County, Arkansas
+3	Pickens County, Alabama
+3	Pickens County, South Carolina
+3	Pike County, Alabama
+3	Pike County, Arkansas
+3	Pike County, Georgia
+3	Pike County, Mississippi
+3	Pitt County, North Carolina
+3	Pittsburg County, Oklahoma
+3	Placer County, California
+3	Poinsett County, Arkansas
+3	Polk County, Arkansas
+3	Polk County, Georgia
+3	Pontotoc County, Mississippi
+3	Pontotoc County, Oklahoma
+3	Pope County, Arkansas
+3	Pottawatomie County, Oklahoma
+3	Prairie County, Arkansas
+3	Prentiss County, Mississippi
+3	Presidio County, Texas
+3	Pulaski County, Arkansas
+3	Pulaski County, Georgia
+3	Pushmataha County, Oklahoma
+3	Putnam County, Georgia
+3	Quitman County, Georgia
+3	Quitman County, Mississippi
+3	Rains County, Texas
+3	Randolph County, Alabama
+3	Randolph County, Arkansas
+3	Randolph County, Georgia
+3	Randolph County, North Carolina
+3	Rankin County, Mississippi
+3	Reagan County, Texas
+3	Red River County, Texas
+3	Red River Parish, Louisiana
+3	Reeves County, Texas
+3	Richland County, South Carolina
+3	Richland Parish, Louisiana
+3	Richmond County, Georgia
+3	Richmond County, North Carolina
+3	Riverside County, California
+3	Robeson County, North Carolina
+3	Rockdale County, Georgia
+3	Rockwall County, Texas
+3	Roger Mills County, Oklahoma
+3	Rogers County, Oklahoma
+3	Rowan County, North Carolina
+3	Runnels County, Texas
+3	Rusk County, Texas
+3	Russell County, Alabama
+3	Sabine County, Texas
+3	Sabine Parish, Louisiana
+3	Sacramento County, California
+3	Saline County, Arkansas
+3	Saluda County, South Carolina
+3	Sampson County, North Carolina
+3	San Augustine County, Texas
+3	San Benito County, California
+3	San Bernardino County, California
+3	San Diego County, California
+3	San Francisco County, California
+3	San Joaquin County, California
+3	San Luis Obispo County, California
+3	San Mateo County, California
+3	San Saba County, Texas
+3	Santa Barbara County, California
+3	Santa Clara County, California
+3	Santa Cruz County, Arizona
+3	Santa Cruz County, California
+3	Schleicher County, Texas
+3	Schley County, Georgia
+3	Scotland County, North Carolina
+3	Scott County, Arkansas
+3	Scott County, Mississippi
+3	Screven County, Georgia
+3	Scurry County, Texas
+3	Sebastian County, Arkansas
+3	Seminole County, Oklahoma
+3	Sequoyah County, Oklahoma
+3	Sevier County, Arkansas
+3	Shackelford County, Texas
+3	Sharkey County, Mississippi
+3	Sharp County, Arkansas
+3	Shasta County, California
+3	Shelby County, Alabama
+3	Shelby County, Tennessee
+3	Shelby County, Texas
+3	Simpson County, Mississippi
+3	Smith County, Mississippi
+3	Smith County, Texas
+3	Solano County, California
+3	Somervell County, Texas
+3	Sonoma County, California
+3	Spalding County, Georgia
+3	Spartanburg County, South Carolina
+3	St. Clair County, Alabama
+3	St. Francis County, Arkansas
+3	Stanislaus County, California
+3	Stanly County, North Carolina
+3	Stephens County, Oklahoma
+3	Stephens County, Texas
+3	Sterling County, Texas
+3	Stewart County, Georgia
+3	Stonewall County, Texas
+3	Sumter County, Alabama
+3	Sumter County, Georgia
+3	Sumter County, South Carolina
+3	Sunflower County, Mississippi
+3	Sutter County, California
+3	Sutton County, Texas
+3	Talbot County, Georgia
+3	Taliaferro County, Georgia
+3	Talladega County, Alabama
+3	Tallahatchie County, Mississippi
+3	Tallapoosa County, Alabama
+3	Tarrant County, Texas
+3	Tate County, Mississippi
+3	Taylor County, Georgia
+3	Taylor County, Texas
+3	Tehama County, California
+3	Telfair County, Georgia
+3	Tensas Parish, Louisiana
+3	Terrell County, Georgia
+3	Terrell County, Texas
+3	Terry County, Texas
+3	Throckmorton County, Texas
+3	Tift County, Georgia
+3	Tillman County, Oklahoma
+3	Tippah County, Mississippi
+3	Tipton County, Tennessee
+3	Tishomingo County, Mississippi
+3	Titus County, Texas
+3	Tom Green County, Texas
+3	Treutlen County, Georgia
+3	Troup County, Georgia
+3	Tulare County, California
+3	Tulsa County, Oklahoma
+3	Tunica County, Mississippi
+3	Turner County, Georgia
+3	Tuscaloosa County, Alabama
+3	Twiggs County, Georgia
+3	Tyrrell County, North Carolina
+3	Union County, Arkansas
+3	Union County, Mississippi
+3	Union County, North Carolina
+3	Union County, South Carolina
+3	Union Parish, Louisiana
+3	Upshur County, Texas
+3	Upson County, Georgia
+3	Upton County, Texas
+3	Van Buren County, Arkansas
+3	Van Zandt County, Texas
+3	Ventura County, California
+3	Vernon Parish, Louisiana
+3	Wagoner County, Oklahoma
+3	Walker County, Alabama
+3	Walthall County, Mississippi
+3	Walton County, Georgia
+3	Ward County, Texas
+3	Warren County, Georgia
+3	Warren County, Mississippi
+3	Washington County, Alabama
+3	Washington County, Georgia
+3	Washington County, Mississippi
+3	Washington County, North Carolina
+3	Washington County, Oklahoma
+3	Washington County, Utah
+3	Washita County, Oklahoma
+3	Wayne County, Mississippi
+3	Wayne County, North Carolina
+3	Webster County, Georgia
+3	Webster County, Mississippi
+3	Webster Parish, Louisiana
+3	West Carroll Parish, Louisiana
+3	Wheeler County, Georgia
+3	Wheeler County, Texas
+3	White County, Arkansas
+3	Wichita County, Texas
+3	Wilbarger County, Texas
+3	Wilcox County, Alabama
+3	Wilcox County, Georgia
+3	Wilkes County, Georgia
+3	Wilkinson County, Georgia
+3	Wilkinson County, Mississippi
+3	Williamsburg County, South Carolina
+3	Wilson County, North Carolina
+3	Winkler County, Texas
+3	Winn Parish, Louisiana
+3	Winston County, Alabama
+3	Winston County, Mississippi
+3	Wise County, Texas
+3	Wood County, Texas
+3	Woodruff County, Arkansas
+3	Woods County, Oklahoma
+3	Woodward County, Oklahoma
+3	Worth County, Georgia
+3	Yalobusha County, Mississippi
+3	Yazoo County, Mississippi
+3	Yell County, Arkansas
+3	Yolo County, California
+3	York County, South Carolina
+3	Young County, Texas
+3	Yuba County, California
+4	Accomack County, Virginia
+4	Adair County, Kentucky
+4	Adams County, Ohio
+4	Alamance County, North Carolina
+4	Albemarle County, Virginia
+4	Alexander County, Illinois
+4	Alexander County, North Carolina
+4	Alexandria County, Virginia
+4	Allegany County, Maryland
+4	Alleghany County, Virginia
+4	Allen County, Kansas
+4	Allen County, Kentucky
+4	Amador County, California
+4	Amelia County, Virginia
+4	Amherst County, Virginia
+4	Anderson County, Kansas
+4	Anderson County, Kentucky
+4	Anderson County, Tennessee
+4	Anne Arundel County, Maryland
+4	Appomattox County, Virginia
+4	Arlington County, Virginia
+4	Armstrong County, Texas
+4	Atchison County, Kansas
+4	Atlantic County, New Jersey
+4	Audrain County, Missouri
+4	Augusta County, Virginia
+4	Baca County, Colorado
+4	Bailey County, Texas
+4	Ballard County, Kentucky
+4	Baltimore City County, Maryland
+4	Baltimore County, Maryland
+4	Banks County, Georgia
+4	Barber County, Kansas
+4	Barren County, Kentucky
+4	Barry County, Missouri
+4	Barton County, Kansas
+4	Barton County, Missouri
+4	Bates County, Missouri
+4	Bath County, Kentucky
+4	Bath County, Virginia
+4	Baxter County, Arkansas
+4	Beaver County, Oklahoma
+4	Bedford City County, Virginia
+4	Bedford County, Tennessee
+4	Bedford County, Virginia
+4	Bell County, Kentucky
+4	Benton County, Arkansas
+4	Benton County, Missouri
+4	Benton County, Oregon
+4	Benton County, Tennessee
+4	Berkeley County, West Virginia
+4	Bernalillo County, New Mexico
+4	Bertie County, North Carolina
+4	Bland County, Virginia
+4	Bledsoe County, Tennessee
+4	Blount County, Tennessee
+4	Bollinger County, Missouri
+4	Bond County, Illinois
+4	Boone County, Arkansas
+4	Boone County, Kentucky
+4	Boone County, Missouri
+4	Boone County, West Virginia
+4	Botetourt County, Virginia
+4	Bourbon County, Kansas
+4	Bourbon County, Kentucky
+4	Boyd County, Kentucky
+4	Boyle County, Kentucky
+4	Bracken County, Kentucky
+4	Bradley County, Tennessee
+4	Braxton County, West Virginia
+4	Breathitt County, Kentucky
+4	Breckinridge County, Kentucky
+4	Briscoe County, Texas
+4	Bristol County, Virginia
+4	Bronx County, New York
+4	Brown County, Indiana
+4	Brown County, Kansas
+4	Brown County, Ohio
+4	Brunswick County, Virginia
+4	Buchanan County, Virginia
+4	Buckingham County, Virginia
+4	Bucks County, Pennsylvania
+4	Buena Vista County, Virginia
+4	Bullitt County, Kentucky
+4	Buncombe County, North Carolina
+4	Burke County, North Carolina
+4	Burlington County, New Jersey
+4	Butler County, Kansas
+4	Butler County, Kentucky
+4	Butler County, Missouri
+4	Cabell County, West Virginia
+4	Calaveras County, California
+4	Caldwell County, Kentucky
+4	Caldwell County, North Carolina
+4	Calhoun County, West Virginia
+4	Callaway County, Missouri
+4	Calloway County, Kentucky
+4	Calvert County, Maryland
+4	Camden County, Missouri
+4	Camden County, New Jersey
+4	Campbell County, Kentucky
+4	Campbell County, Tennessee
+4	Campbell County, Virginia
+4	Cannon County, Tennessee
+4	Cape Girardeau County, Missouri
+4	Cape May County, New Jersey
+4	Carlisle County, Kentucky
+4	Caroline County, Maryland
+4	Caroline County, Virginia
+4	Carroll County, Arkansas
+4	Carroll County, Kentucky
+4	Carroll County, Maryland
+4	Carroll County, Missouri
+4	Carroll County, Tennessee
+4	Carroll County, Virginia
+4	Carson County, Texas
+4	Carter County, Kentucky
+4	Carter County, Missouri
+4	Carter County, Tennessee
+4	Casey County, Kentucky
+4	Cass County, Missouri
+4	Castro County, Texas
+4	Caswell County, North Carolina
+4	Catawba County, North Carolina
+4	Catoosa County, Georgia
+4	Cecil County, Maryland
+4	Cedar County, Missouri
+4	Charles City County, Virginia
+4	Charles County, Maryland
+4	Charlotte County, Virginia
+4	Charlottesville County, Virginia
+4	Chase County, Kansas
+4	Chatham County, North Carolina
+4	Chattooga County, Georgia
+4	Chautauqua County, Kansas
+4	Cheatham County, Tennessee
+4	Cherokee County, Kansas
+4	Cherokee County, North Carolina
+4	Chesapeake County, Virginia
+4	Chester County, Pennsylvania
+4	Chesterfield County, Virginia
+4	Christian County, Illinois
+4	Christian County, Kentucky
+4	Christian County, Missouri
+4	Cibola County, New Mexico
+4	Cimarron County, Oklahoma
+4	Clackamas County, Oregon
+4	Claiborne County, Tennessee
+4	Clallam County, Washington
+4	Clark County, Indiana
+4	Clark County, Kansas
+4	Clark County, Kentucky
+4	Clark County, Washington
+4	Clarke County, Virginia
+4	Clatsop County, Oregon
+4	Clay County, Illinois
+4	Clay County, Kansas
+4	Clay County, Kentucky
+4	Clay County, Missouri
+4	Clay County, North Carolina
+4	Clay County, Tennessee
+4	Clay County, West Virginia
+4	Clermont County, Ohio
+4	Cleveland County, North Carolina
+4	Clinton County, Illinois
+4	Clinton County, Kentucky
+4	Cochran County, Texas
+4	Cocke County, Tennessee
+4	Coffee County, Tennessee
+4	Coffey County, Kansas
+4	Cole County, Missouri
+4	Colonial Heights County, Virginia
+4	Columbia County, Oregon
+4	Comanche County, Kansas
+4	Cooper County, Missouri
+4	Coos County, Oregon
+4	Covington County, Virginia
+4	Cowley County, Kansas
+4	Cowlitz County, Washington
+4	Craig County, Virginia
+4	Crawford County, Illinois
+4	Crawford County, Indiana
+4	Crawford County, Kansas
+4	Crawford County, Missouri
+4	Crittenden County, Kentucky
+4	Culpeper County, Virginia
+4	Cumberland County, Kentucky
+4	Cumberland County, New Jersey
+4	Cumberland County, Tennessee
+4	Cumberland County, Virginia
+4	Curry County, New Mexico
+4	Curry County, Oregon
+4	Dade County, Georgia
+4	Dade County, Missouri
+4	Dallam County, Texas
+4	Dallas County, Missouri
+4	Danville County, Virginia
+4	Davidson County, Tennessee
+4	Davie County, North Carolina
+4	Daviess County, Indiana
+4	Daviess County, Kentucky
+4	Dawson County, Georgia
+4	De Baca County, New Mexico
+4	DeKalb County, Tennessee
+4	Deaf Smith County, Texas
+4	Dearborn County, Indiana
+4	Decatur County, Tennessee
+4	Del Norte County, California
+4	Delaware County, Pennsylvania
+4	Dent County, Missouri
+4	Dickenson County, Virginia
+4	Dickinson County, Kansas
+4	Dickson County, Tennessee
+4	Dinwiddie County, Virginia
+4	District of Columbia County, District of Columbia
+4	Doniphan County, Kansas
+4	Donley County, Texas
+4	Dorchester County, Maryland
+4	Douglas County, Kansas
+4	Douglas County, Missouri
+4	Douglas County, Oregon
+4	Dubois County, Indiana
+4	Dunklin County, Missouri
+4	Durham County, North Carolina
+4	Edmonson County, Kentucky
+4	Edwards County, Illinois
+4	Edwards County, Kansas
+4	Effingham County, Illinois
+4	El Dorado County, California
+4	Elk County, Kansas
+4	Elliott County, Kentucky
+4	Ellsworth County, Kansas
+4	Emporia County, Virginia
+4	Essex County, New Jersey
+4	Essex County, Virginia
+4	Estill County, Kentucky
+4	Fairfax City County, Virginia
+4	Fairfax County, Virginia
+4	Falls Church County, Virginia
+4	Fannin County, Georgia
+4	Fauquier County, Virginia
+4	Fayette County, Illinois
+4	Fayette County, Kentucky
+4	Fentress County, Tennessee
+4	Finney County, Kansas
+4	Fleming County, Kentucky
+4	Floyd County, Georgia
+4	Floyd County, Indiana
+4	Floyd County, Kentucky
+4	Floyd County, Texas
+4	Floyd County, Virginia
+4	Fluvanna County, Virginia
+4	Ford County, Kansas
+4	Forsyth County, North Carolina
+4	Franklin City County, Virginia
+4	Franklin County, Georgia
+4	Franklin County, Illinois
+4	Franklin County, Kansas
+4	Franklin County, Kentucky
+4	Franklin County, Missouri
+4	Franklin County, North Carolina
+4	Franklin County, Tennessee
+4	Franklin County, Virginia
+4	Frederick County, Maryland
+4	Frederick County, Virginia
+4	Fredericksburg County, Virginia
+4	Fulton County, Arkansas
+4	Fulton County, Kentucky
+4	Galax County, Virginia
+4	Gallatin County, Illinois
+4	Gallatin County, Kentucky
+4	Gallia County, Ohio
+4	Garrard County, Kentucky
+4	Gasconade County, Missouri
+4	Gates County, North Carolina
+4	Geary County, Kansas
+4	Gibson County, Indiana
+4	Gibson County, Tennessee
+4	Gila County, Arizona
+4	Giles County, Tennessee
+4	Giles County, Virginia
+4	Gilmer County, Georgia
+4	Gilmer County, West Virginia
+4	Gloucester County, New Jersey
+4	Gloucester County, Virginia
+4	Goochland County, Virginia
+4	Gordon County, Georgia
+4	Graham County, North Carolina
+4	Grainger County, Tennessee
+4	Grant County, Kansas
+4	Grant County, Kentucky
+4	Grant County, New Mexico
+4	Granville County, North Carolina
+4	Graves County, Kentucky
+4	Gray County, Kansas
+4	Gray County, Texas
+4	Grays Harbor County, Washington
+4	Grayson County, Kentucky
+4	Grayson County, Virginia
+4	Green County, Kentucky
+4	Greene County, Indiana
+4	Greene County, Missouri
+4	Greene County, Tennessee
+4	Greene County, Virginia
+4	Greensville County, Virginia
+4	Greenup County, Kentucky
+4	Greenwood County, Kansas
+4	Grundy County, Tennessee
+4	Guadalupe County, New Mexico
+4	Guilford County, North Carolina
+4	Habersham County, Georgia
+4	Hale County, Texas
+4	Halifax County, North Carolina
+4	Halifax County, Virginia
+4	Hall County, Georgia
+4	Hamblen County, Tennessee
+4	Hamilton County, Illinois
+4	Hamilton County, Ohio
+4	Hamilton County, Tennessee
+4	Hampton County, Virginia
+4	Hancock County, Kentucky
+4	Hancock County, Tennessee
+4	Hanover County, Virginia
+4	Hansford County, Texas
+4	Hardin County, Illinois
+4	Hardin County, Kentucky
+4	Harford County, Maryland
+4	Harlan County, Kentucky
+4	Harnett County, North Carolina
+4	Harper County, Kansas
+4	Harrison County, Indiana
+4	Harrison County, Kentucky
+4	Harrisonburg County, Virginia
+4	Hart County, Kentucky
+4	Hartley County, Texas
+4	Harvey County, Kansas
+4	Haskell County, Kansas
+4	Hawkins County, Tennessee
+4	Haywood County, North Carolina
+4	Henderson County, Kentucky
+4	Henderson County, North Carolina
+4	Henrico County, Virginia
+4	Henry County, Kentucky
+4	Henry County, Missouri
+4	Henry County, Tennessee
+4	Henry County, Virginia
+4	Hertford County, North Carolina
+4	Hickman County, Kentucky
+4	Hickman County, Tennessee
+4	Hickory County, Missouri
+4	Highland County, Virginia
+4	Hockley County, Texas
+4	Hodgeman County, Kansas
+4	Hopewell County, Virginia
+4	Hopkins County, Kentucky
+4	Houston County, Tennessee
+4	Howard County, Maryland
+4	Howard County, Missouri
+4	Howell County, Missouri
+4	Hudson County, New Jersey
+4	Humboldt County, California
+4	Humphreys County, Tennessee
+4	Hutchinson County, Texas
+4	Inyo County, California
+4	Iredell County, North Carolina
+4	Iron County, Missouri
+4	Isle of Wight County, Virginia
+4	Izard County, Arkansas
+4	Jackson County, Illinois
+4	Jackson County, Indiana
+4	Jackson County, Kansas
+4	Jackson County, Kentucky
+4	Jackson County, Missouri
+4	Jackson County, North Carolina
+4	Jackson County, Oregon
+4	Jackson County, Tennessee
+4	Jackson County, West Virginia
+4	James City County, Virginia
+4	Jasper County, Illinois
+4	Jasper County, Missouri
+4	Jefferson County, Illinois
+4	Jefferson County, Indiana
+4	Jefferson County, Kansas
+4	Jefferson County, Kentucky
+4	Jefferson County, Missouri
+4	Jefferson County, Tennessee
+4	Jefferson County, Washington
+4	Jefferson County, West Virginia
+4	Jennings County, Indiana
+4	Jessamine County, Kentucky
+4	Johnson County, Illinois
+4	Johnson County, Kansas
+4	Johnson County, Kentucky
+4	Johnson County, Missouri
+4	Johnson County, Tennessee
+4	Josephine County, Oregon
+4	Kanawha County, West Virginia
+4	Kearny County, Kansas
+4	Kent County, Delaware
+4	Kent County, Maryland
+4	Kenton County, Kentucky
+4	King County, Washington
+4	King George County, Virginia
+4	King William County, Virginia
+4	King and Queen County, Virginia
+4	Kingman County, Kansas
+4	Kings County, New York
+4	Kiowa County, Kansas
+4	Kitsap County, Washington
+4	Knott County, Kentucky
+4	Knox County, Indiana
+4	Knox County, Kentucky
+4	Knox County, Tennessee
+4	Labette County, Kansas
+4	Laclede County, Missouri
+4	Lafayette County, Missouri
+4	Lake County, California
+4	Lamb County, Texas
+4	Lancaster County, Virginia
+4	Lane County, Oregon
+4	Larue County, Kentucky
+4	Las Animas County, Colorado
+4	Laurel County, Kentucky
+4	Lawrence County, Illinois
+4	Lawrence County, Indiana
+4	Lawrence County, Kentucky
+4	Lawrence County, Missouri
+4	Lawrence County, Ohio
+4	Lawrence County, Tennessee
+4	Leavenworth County, Kansas
+4	Lee County, Kentucky
+4	Lee County, North Carolina
+4	Lee County, Virginia
+4	Leslie County, Kentucky
+4	Letcher County, Kentucky
+4	Lewis County, Kentucky
+4	Lewis County, Tennessee
+4	Lewis County, Washington
+4	Lexington County, Virginia
+4	Lincoln County, Kansas
+4	Lincoln County, Kentucky
+4	Lincoln County, Missouri
+4	Lincoln County, New Mexico
+4	Lincoln County, North Carolina
+4	Lincoln County, Oregon
+4	Lincoln County, Tennessee
+4	Lincoln County, West Virginia
+4	Linn County, Kansas
+4	Linn County, Oregon
+4	Lipscomb County, Texas
+4	Livingston County, Kentucky
+4	Logan County, Kentucky
+4	Logan County, West Virginia
+4	Loudon County, Tennessee
+4	Loudoun County, Virginia
+4	Louisa County, Virginia
+4	Lumpkin County, Georgia
+4	Lunenburg County, Virginia
+4	Lynchburg County, Virginia
+4	Lyon County, Kansas
+4	Lyon County, Kentucky
+4	Macon County, North Carolina
+4	Macon County, Tennessee
+4	Macoupin County, Illinois
+4	Madison County, Arkansas
+4	Madison County, Illinois
+4	Madison County, Kentucky
+4	Madison County, Missouri
+4	Madison County, North Carolina
+4	Madison County, Virginia
+4	Magoffin County, Kentucky
+4	Manassas County, Virginia
+4	Manassas Park County, Virginia
+4	Maries County, Missouri
+4	Marion County, Arkansas
+4	Marion County, Illinois
+4	Marion County, Kansas
+4	Marion County, Kentucky
+4	Marion County, Oregon
+4	Marion County, Tennessee
+4	Mariposa County, California
+4	Marshall County, Kansas
+4	Marshall County, Kentucky
+4	Marshall County, Tennessee
+4	Martin County, Indiana
+4	Martin County, Kentucky
+4	Martinsville County, Virginia
+4	Mason County, Kentucky
+4	Mason County, Washington
+4	Mason County, West Virginia
+4	Massac County, Illinois
+4	Mathews County, Virginia
+4	Maury County, Tennessee
+4	McCracken County, Kentucky
+4	McCreary County, Kentucky
+4	McDonald County, Missouri
+4	McDowell County, North Carolina
+4	McDowell County, West Virginia
+4	McLean County, Kentucky
+4	McMinn County, Tennessee
+4	McPherson County, Kansas
+4	Meade County, Kansas
+4	Meade County, Kentucky
+4	Mecklenburg County, Virginia
+4	Meigs County, Tennessee
+4	Menifee County, Kentucky
+4	Mercer County, Kentucky
+4	Mercer County, West Virginia
+4	Metcalfe County, Kentucky
+4	Miami County, Kansas
+4	Middlesex County, New Jersey
+4	Middlesex County, Virginia
+4	Miller County, Missouri
+4	Mingo County, West Virginia
+4	Mississippi County, Missouri
+4	Moniteau County, Missouri
+4	Monmouth County, New Jersey
+4	Monroe County, Illinois
+4	Monroe County, Indiana
+4	Monroe County, Kentucky
+4	Monroe County, Missouri
+4	Monroe County, Tennessee
+4	Monroe County, West Virginia
+4	Montgomery County, Illinois
+4	Montgomery County, Kansas
+4	Montgomery County, Kentucky
+4	Montgomery County, Maryland
+4	Montgomery County, Missouri
+4	Montgomery County, Pennsylvania
+4	Montgomery County, Tennessee
+4	Montgomery County, Virginia
+4	Moore County, Tennessee
+4	Moore County, Texas
+4	Morgan County, Kentucky
+4	Morgan County, Missouri
+4	Morgan County, Tennessee
+4	Morgan County, West Virginia
+4	Morris County, Kansas
+4	Morton County, Kansas
+4	Muhlenberg County, Kentucky
+4	Multnomah County, Oregon
+4	Murray County, Georgia
+4	Nash County, North Carolina
+4	Nassau County, New York
+4	Nelson County, Kentucky
+4	Nelson County, Virginia
+4	Nemaha County, Kansas
+4	Neosho County, Kansas
+4	New Castle County, Delaware
+4	New Kent County, Virginia
+4	New Madrid County, Missouri
+4	New York County, New York
+4	Newport News County, Virginia
+4	Newton County, Arkansas
+4	Newton County, Missouri
+4	Nicholas County, Kentucky
+4	Norfolk County, Virginia
+4	Northampton County, North Carolina
+4	Northampton County, Virginia
+4	Northumberland County, Virginia
+4	Norton County, Virginia
+4	Nottoway County, Virginia
+4	Obion County, Tennessee
+4	Ocean County, New Jersey
+4	Ochiltree County, Texas
+4	Ohio County, Indiana
+4	Ohio County, Kentucky
+4	Oldham County, Kentucky
+4	Oldham County, Texas
+4	Orange County, Indiana
+4	Orange County, North Carolina
+4	Orange County, Virginia
+4	Oregon County, Missouri
+4	Osage County, Kansas
+4	Osage County, Missouri
+4	Otero County, Colorado
+4	Ottawa County, Kansas
+4	Overton County, Tennessee
+4	Owen County, Kentucky
+4	Owsley County, Kentucky
+4	Ozark County, Missouri
+4	Pacific County, Washington
+4	Page County, Virginia
+4	Parmer County, Texas
+4	Patrick County, Virginia
+4	Pawnee County, Kansas
+4	Pemiscot County, Missouri
+4	Pendleton County, Kentucky
+4	Perry County, Illinois
+4	Perry County, Indiana
+4	Perry County, Kentucky
+4	Perry County, Missouri
+4	Perry County, Tennessee
+4	Person County, North Carolina
+4	Petersburg County, Virginia
+4	Pettis County, Missouri
+4	Phelps County, Missouri
+4	Philadelphia County, Pennsylvania
+4	Pickens County, Georgia
+4	Pickett County, Tennessee
+4	Pierce County, Washington
+4	Pike County, Indiana
+4	Pike County, Kentucky
+4	Pike County, Ohio
+4	Pittsylvania County, Virginia
+4	Platte County, Missouri
+4	Pleasants County, West Virginia
+4	Polk County, Missouri
+4	Polk County, North Carolina
+4	Polk County, Oregon
+4	Polk County, Tennessee
+4	Pope County, Illinois
+4	Poquoson County, Virginia
+4	Portsmouth County, Virginia
+4	Posey County, Indiana
+4	Pottawatomie County, Kansas
+4	Potter County, Texas
+4	Powell County, Kentucky
+4	Powhatan County, Virginia
+4	Pratt County, Kansas
+4	Prince Edward County, Virginia
+4	Prince George County, Virginia
+4	Prince George's County, Maryland
+4	Prince William County, Virginia
+4	Pulaski County, Illinois
+4	Pulaski County, Kentucky
+4	Pulaski County, Missouri
+4	Pulaski County, Virginia
+4	Putnam County, Tennessee
+4	Putnam County, West Virginia
+4	Quay County, New Mexico
+4	Queen Anne's County, Maryland
+4	Queens County, New York
+4	Rabun County, Georgia
+4	Radford County, Virginia
+4	Randall County, Texas
+4	Randolph County, Illinois
+4	Randolph County, Missouri
+4	Rappahannock County, Virginia
+4	Ray County, Missouri
+4	Reno County, Kansas
+4	Reynolds County, Missouri
+4	Rhea County, Tennessee
+4	Rice County, Kansas
+4	Richland County, Illinois
+4	Richmond City County, Virginia
+4	Richmond County, New York
+4	Richmond County, Virginia
+4	Riley County, Kansas
+4	Ripley County, Indiana
+4	Ripley County, Missouri
+4	Ritchie County, West Virginia
+4	Roane County, Tennessee
+4	Roane County, West Virginia
+4	Roanoke City County, Virginia
+4	Roanoke County, Virginia
+4	Roberts County, Texas
+4	Robertson County, Kentucky
+4	Robertson County, Tennessee
+4	Rockbridge County, Virginia
+4	Rockcastle County, Kentucky
+4	Rockingham County, North Carolina
+4	Rockingham County, Virginia
+4	Roosevelt County, New Mexico
+4	Rowan County, Kentucky
+4	Rush County, Kansas
+4	Russell County, Kansas
+4	Russell County, Kentucky
+4	Russell County, Virginia
+4	Rutherford County, North Carolina
+4	Rutherford County, Tennessee
+4	Salem County, New Jersey
+4	Salem County, Virginia
+4	Saline County, Illinois
+4	Saline County, Kansas
+4	Saline County, Missouri
+4	Scioto County, Ohio
+4	Scott County, Indiana
+4	Scott County, Kentucky
+4	Scott County, Missouri
+4	Scott County, Tennessee
+4	Scott County, Virginia
+4	Searcy County, Arkansas
+4	Sedgwick County, Kansas
+4	Sequatchie County, Tennessee
+4	Sevier County, Tennessee
+4	Seward County, Kansas
+4	Shannon County, Missouri
+4	Shawnee County, Kansas
+4	Shelby County, Illinois
+4	Shelby County, Kentucky
+4	Shenandoah County, Virginia
+4	Sherman County, Texas
+4	Sierra County, New Mexico
+4	Simpson County, Kentucky
+4	Skagit County, Washington
+4	Smith County, Tennessee
+4	Smyth County, Virginia
+4	Snohomish County, Washington
+4	Socorro County, New Mexico
+4	Somerset County, Maryland
+4	Southampton County, Virginia
+4	Spencer County, Indiana
+4	Spencer County, Kentucky
+4	Spotsylvania County, Virginia
+4	St. Charles County, Missouri
+4	St. Clair County, Illinois
+4	St. Clair County, Missouri
+4	St. Francois County, Missouri
+4	St. Louis City County, Missouri
+4	St. Louis County, Missouri
+4	St. Mary's County, Maryland
+4	Stafford County, Kansas
+4	Stafford County, Virginia
+4	Stanton County, Kansas
+4	Staunton County, Virginia
+4	Ste. Genevieve County, Missouri
+4	Stephens County, Georgia
+4	Stevens County, Kansas
+4	Stewart County, Tennessee
+4	Stoddard County, Missouri
+4	Stokes County, North Carolina
+4	Stone County, Arkansas
+4	Stone County, Missouri
+4	Suffolk County, New York
+4	Suffolk County, Virginia
+4	Sullivan County, Indiana
+4	Sullivan County, Tennessee
+4	Sumner County, Kansas
+4	Sumner County, Tennessee
+4	Surry County, North Carolina
+4	Surry County, Virginia
+4	Sussex County, Delaware
+4	Sussex County, Virginia
+4	Swain County, North Carolina
+4	Swisher County, Texas
+4	Switzerland County, Indiana
+4	Talbot County, Maryland
+4	Taney County, Missouri
+4	Taylor County, Kentucky
+4	Tazewell County, Virginia
+4	Texas County, Missouri
+4	Texas County, Oklahoma
+4	Thurston County, Washington
+4	Tillamook County, Oregon
+4	Todd County, Kentucky
+4	Towns County, Georgia
+4	Transylvania County, North Carolina
+4	Trigg County, Kentucky
+4	Trimble County, Kentucky
+4	Trinity County, California
+4	Trousdale County, Tennessee
+4	Tuolumne County, California
+4	Tyler County, West Virginia
+4	Unicoi County, Tennessee
+4	Union County, Georgia
+4	Union County, Illinois
+4	Union County, Kentucky
+4	Union County, New Jersey
+4	Union County, New Mexico
+4	Union County, Tennessee
+4	Valencia County, New Mexico
+4	Van Buren County, Tennessee
+4	Vance County, North Carolina
+4	Vanderburgh County, Indiana
+4	Vernon County, Missouri
+4	Virginia Beach County, Virginia
+4	Wabash County, Illinois
+4	Wabaunsee County, Kansas
+4	Wahkiakum County, Washington
+4	Wake County, North Carolina
+4	Walker County, Georgia
+4	Warren County, Kentucky
+4	Warren County, Missouri
+4	Warren County, North Carolina
+4	Warren County, Tennessee
+4	Warren County, Virginia
+4	Warrick County, Indiana
+4	Washington County, Arkansas
+4	Washington County, Illinois
+4	Washington County, Indiana
+4	Washington County, Kansas
+4	Washington County, Kentucky
+4	Washington County, Maryland
+4	Washington County, Missouri
+4	Washington County, Ohio
+4	Washington County, Oregon
+4	Washington County, Tennessee
+4	Washington County, Virginia
+4	Wayne County, Illinois
+4	Wayne County, Kentucky
+4	Wayne County, Missouri
+4	Wayne County, Tennessee
+4	Wayne County, West Virginia
+4	Waynesboro County, Virginia
+4	Weakley County, Tennessee
+4	Webster County, Kentucky
+4	Webster County, Missouri
+4	Westchester County, New York
+4	Westmoreland County, Virginia
+4	Whatcom County, Washington
+4	White County, Georgia
+4	White County, Illinois
+4	White County, Tennessee
+4	Whitfield County, Georgia
+4	Whitley County, Kentucky
+4	Wicomico County, Maryland
+4	Wilkes County, North Carolina
+4	Williamsburg County, Virginia
+4	Williamson County, Illinois
+4	Williamson County, Tennessee
+4	Wilson County, Kansas
+4	Wilson County, Tennessee
+4	Winchester County, Virginia
+4	Wirt County, West Virginia
+4	Wise County, Virginia
+4	Wolfe County, Kentucky
+4	Wood County, West Virginia
+4	Woodford County, Kentucky
+4	Woodson County, Kansas
+4	Worcester County, Maryland
+4	Wright County, Missouri
+4	Wyandotte County, Kansas
+4	Wyoming County, West Virginia
+4	Wythe County, Virginia
+4	Yadkin County, North Carolina
+4	Yamhill County, Oregon
+4	Yavapai County, Arizona
+4	Yoakum County, Texas
+4	York County, Pennsylvania
+4	York County, Virginia
+5	Ada County, Idaho
+5	Adair County, Iowa
+5	Adair County, Missouri
+5	Adams County, Colorado
+5	Adams County, Illinois
+5	Adams County, Indiana
+5	Adams County, Iowa
+5	Adams County, Nebraska
+5	Adams County, Pennsylvania
+5	Adams County, Washington
+5	Albany County, New York
+5	Allegan County, Michigan
+5	Alleghany County, North Carolina
+5	Allegheny County, Pennsylvania
+5	Allen County, Indiana
+5	Allen County, Ohio
+5	Andrew County, Missouri
+5	Antelope County, Nebraska
+5	Apache County, Arizona
+5	Appanoose County, Iowa
+5	Arapahoe County, Colorado
+5	Armstrong County, Pennsylvania
+5	Arthur County, Nebraska
+5	Ashe County, North Carolina
+5	Ashland County, Ohio
+5	Ashtabula County, Ohio
+5	Asotin County, Washington
+5	Atchison County, Missouri
+5	Athens County, Ohio
+5	Audubon County, Iowa
+5	Auglaize County, Ohio
+5	Avery County, North Carolina
+5	Baker County, Oregon
+5	Banner County, Nebraska
+5	Barbour County, West Virginia
+5	Barnstable County, Massachusetts
+5	Barry County, Michigan
+5	Bartholomew County, Indiana
+5	Bay County, Michigan
+5	Beaver County, Pennsylvania
+5	Beaver County, Utah
+5	Bedford County, Pennsylvania
+5	Belmont County, Ohio
+5	Benewah County, Idaho
+5	Bennett County, South Dakota
+5	Bent County, Colorado
+5	Benton County, Indiana
+5	Benton County, Iowa
+5	Benton County, Washington
+5	Bergen County, New Jersey
+5	Berks County, Pennsylvania
+5	Berkshire County, Massachusetts
+5	Berrien County, Michigan
+5	Blackford County, Indiana
+5	Blaine County, Nebraska
+5	Blair County, Pennsylvania
+5	Bon Homme County, South Dakota
+5	Boone County, Illinois
+5	Boone County, Indiana
+5	Boone County, Iowa
+5	Boone County, Nebraska
+5	Boulder County, Colorado
+5	Box Butte County, Nebraska
+5	Boyd County, Nebraska
+5	Bradford County, Pennsylvania
+5	Branch County, Michigan
+5	Bristol County, Massachusetts
+5	Bristol County, Rhode Island
+5	Brooke County, West Virginia
+5	Broomfield County, Colorado
+5	Brown County, Illinois
+5	Brown County, Nebraska
+5	Buchanan County, Missouri
+5	Buffalo County, Nebraska
+5	Bureau County, Illinois
+5	Burt County, Nebraska
+5	Butler County, Nebraska
+5	Butler County, Ohio
+5	Butler County, Pennsylvania
+5	Caldwell County, Missouri
+5	Calhoun County, Illinois
+5	Calhoun County, Michigan
+5	Cambria County, Pennsylvania
+5	Canyon County, Idaho
+5	Carbon County, Pennsylvania
+5	Carroll County, Illinois
+5	Carroll County, Indiana
+5	Carroll County, Iowa
+5	Carroll County, Ohio
+5	Carson City County, Nevada
+5	Cass County, Illinois
+5	Cass County, Indiana
+5	Cass County, Iowa
+5	Cass County, Michigan
+5	Cass County, Nebraska
+5	Cassia County, Idaho
+5	Catron County, New Mexico
+5	Cayuga County, New York
+5	Cedar County, Iowa
+5	Cedar County, Nebraska
+5	Centre County, Pennsylvania
+5	Champaign County, Illinois
+5	Champaign County, Ohio
+5	Chariton County, Missouri
+5	Charles Mix County, South Dakota
+5	Chase County, Nebraska
+5	Chautauqua County, New York
+5	Chelan County, Washington
+5	Chemung County, New York
+5	Cherry County, Nebraska
+5	Cheshire County, New Hampshire
+5	Cheyenne County, Colorado
+5	Cheyenne County, Kansas
+5	Cheyenne County, Nebraska
+5	Churchill County, Nevada
+5	Clarion County, Pennsylvania
+5	Clark County, Illinois
+5	Clark County, Missouri
+5	Clark County, Ohio
+5	Clarke County, Iowa
+5	Clay County, Indiana
+5	Clay County, Nebraska
+5	Clay County, South Dakota
+5	Clearwater County, Idaho
+5	Clinton County, Indiana
+5	Clinton County, Iowa
+5	Clinton County, Michigan
+5	Clinton County, Missouri
+5	Clinton County, Ohio
+5	Clinton County, Pennsylvania
+5	Cloud County, Kansas
+5	Coconino County, Arizona
+5	Coles County, Illinois
+5	Colfax County, Nebraska
+5	Colfax County, New Mexico
+5	Columbia County, New York
+5	Columbia County, Pennsylvania
+5	Columbia County, Washington
+5	Columbiana County, Ohio
+5	Cook County, Illinois
+5	Cortland County, New York
+5	Coshocton County, Ohio
+5	Crawford County, Iowa
+5	Crawford County, Ohio
+5	Crawford County, Pennsylvania
+5	Crook County, Oregon
+5	Crowley County, Colorado
+5	Cumberland County, Illinois
+5	Cumberland County, Pennsylvania
+5	Cuming County, Nebraska
+5	Custer County, Nebraska
+5	Cuyahoga County, Ohio
+5	Dakota County, Nebraska
+5	Dallas County, Iowa
+5	Darke County, Ohio
+5	Dauphin County, Pennsylvania
+5	Daviess County, Missouri
+5	Davis County, Iowa
+5	Davis County, Utah
+5	Dawes County, Nebraska
+5	Dawson County, Nebraska
+5	De Witt County, Illinois
+5	DeKalb County, Illinois
+5	DeKalb County, Indiana
+5	DeKalb County, Missouri
+5	Decatur County, Indiana
+5	Decatur County, Iowa
+5	Decatur County, Kansas
+5	Defiance County, Ohio
+5	Delaware County, Indiana
+5	Delaware County, Ohio
+5	Delta County, Colorado
+5	Denver County, Colorado
+5	Des Moines County, Iowa
+5	Deschutes County, Oregon
+5	Deuel County, Nebraska
+5	Dixon County, Nebraska
+5	Doddridge County, West Virginia
+5	Dodge County, Nebraska
+5	Douglas County, Colorado
+5	Douglas County, Illinois
+5	Douglas County, Nebraska
+5	Douglas County, Nevada
+5	Douglas County, South Dakota
+5	Douglas County, Washington
+5	DuPage County, Illinois
+5	Dubuque County, Iowa
+5	Dukes County, Massachusetts
+5	Dundy County, Nebraska
+5	Dutchess County, New York
+5	Eaton County, Michigan
+5	Edgar County, Illinois
+5	El Paso County, Colorado
+5	Elbert County, Colorado
+5	Elkhart County, Indiana
+5	Elko County, Nevada
+5	Ellis County, Kansas
+5	Elmore County, Idaho
+5	Emery County, Utah
+5	Erie County, New York
+5	Erie County, Ohio
+5	Erie County, Pennsylvania
+5	Esmeralda County, Nevada
+5	Essex County, Massachusetts
+5	Eureka County, Nevada
+5	Fairfield County, Connecticut
+5	Fairfield County, Ohio
+5	Fayette County, Indiana
+5	Fayette County, Ohio
+5	Fayette County, Pennsylvania
+5	Fayette County, West Virginia
+5	Fillmore County, Nebraska
+5	Ford County, Illinois
+5	Forest County, Pennsylvania
+5	Fountain County, Indiana
+5	Franklin County, Indiana
+5	Franklin County, Massachusetts
+5	Franklin County, Nebraska
+5	Franklin County, Ohio
+5	Franklin County, Pennsylvania
+5	Franklin County, Washington
+5	Fremont County, Colorado
+5	Fremont County, Iowa
+5	Frontier County, Nebraska
+5	Fulton County, Illinois
+5	Fulton County, Indiana
+5	Fulton County, Ohio
+5	Fulton County, Pennsylvania
+5	Furnas County, Nebraska
+5	Gage County, Nebraska
+5	Garden County, Nebraska
+5	Garfield County, Colorado
+5	Garfield County, Nebraska
+5	Garfield County, Utah
+5	Garfield County, Washington
+5	Garrett County, Maryland
+5	Geauga County, Ohio
+5	Gem County, Idaho
+5	Genesee County, Michigan
+5	Genesee County, New York
+5	Gentry County, Missouri
+5	Gilliam County, Oregon
+5	Gilpin County, Colorado
+5	Gooding County, Idaho
+5	Goshen County, Wyoming
+5	Gosper County, Nebraska
+5	Gove County, Kansas
+5	Graham County, Kansas
+5	Grand County, Utah
+5	Grant County, Indiana
+5	Grant County, Nebraska
+5	Grant County, Oregon
+5	Grant County, Washington
+5	Grant County, West Virginia
+5	Gratiot County, Michigan
+5	Greeley County, Kansas
+5	Greeley County, Nebraska
+5	Greenbrier County, West Virginia
+5	Greene County, Illinois
+5	Greene County, Iowa
+5	Greene County, New York
+5	Greene County, Ohio
+5	Greene County, Pennsylvania
+5	Gregory County, South Dakota
+5	Grundy County, Illinois
+5	Grundy County, Missouri
+5	Guernsey County, Ohio
+5	Guthrie County, Iowa
+5	Hall County, Nebraska
+5	Hamilton County, Indiana
+5	Hamilton County, Kansas
+5	Hamilton County, Nebraska
+5	Hampden County, Massachusetts
+5	Hampshire County, Massachusetts
+5	Hampshire County, West Virginia
+5	Hancock County, Illinois
+5	Hancock County, Indiana
+5	Hancock County, Ohio
+5	Hancock County, West Virginia
+5	Hardin County, Ohio
+5	Harding County, New Mexico
+5	Hardy County, West Virginia
+5	Harlan County, Nebraska
+5	Harney County, Oregon
+5	Harrison County, Iowa
+5	Harrison County, Missouri
+5	Harrison County, Ohio
+5	Harrison County, West Virginia
+5	Hartford County, Connecticut
+5	Hayes County, Nebraska
+5	Henderson County, Illinois
+5	Hendricks County, Indiana
+5	Henry County, Illinois
+5	Henry County, Indiana
+5	Henry County, Iowa
+5	Henry County, Ohio
+5	Highland County, Ohio
+5	Hillsborough County, New Hampshire
+5	Hillsdale County, Michigan
+5	Hitchcock County, Nebraska
+5	Hocking County, Ohio
+5	Holmes County, Ohio
+5	Holt County, Missouri
+5	Holt County, Nebraska
+5	Hood River County, Oregon
+5	Hooker County, Nebraska
+5	Howard County, Indiana
+5	Howard County, Nebraska
+5	Huerfano County, Colorado
+5	Humboldt County, Nevada
+5	Hunterdon County, New Jersey
+5	Huntingdon County, Pennsylvania
+5	Huntington County, Indiana
+5	Huron County, Ohio
+5	Hutchinson County, South Dakota
+5	Idaho County, Idaho
+5	Indiana County, Pennsylvania
+5	Ingham County, Michigan
+5	Ionia County, Michigan
+5	Iowa County, Iowa
+5	Iron County, Utah
+5	Iroquois County, Illinois
+5	Island County, Washington
+5	Jackson County, Iowa
+5	Jackson County, Michigan
+5	Jackson County, Ohio
+5	Jackson County, South Dakota
+5	Jasper County, Indiana
+5	Jasper County, Iowa
+5	Jay County, Indiana
+5	Jefferson County, Colorado
+5	Jefferson County, Iowa
+5	Jefferson County, Nebraska
+5	Jefferson County, Ohio
+5	Jefferson County, Oregon
+5	Jefferson County, Pennsylvania
+5	Jerome County, Idaho
+5	Jersey County, Illinois
+5	Jewell County, Kansas
+5	Jo Daviess County, Illinois
+5	Johnson County, Indiana
+5	Johnson County, Iowa
+5	Johnson County, Nebraska
+5	Jones County, Iowa
+5	Juab County, Utah
+5	Juniata County, Pennsylvania
+5	Kalamazoo County, Michigan
+5	Kane County, Illinois
+5	Kane County, Utah
+5	Kankakee County, Illinois
+5	Kearney County, Nebraska
+5	Keith County, Nebraska
+5	Kendall County, Illinois
+5	Kent County, Michigan
+5	Kent County, Rhode Island
+5	Keokuk County, Iowa
+5	Keya Paha County, Nebraska
+5	Kimball County, Nebraska
+5	Kiowa County, Colorado
+5	Kit Carson County, Colorado
+5	Kittitas County, Washington
+5	Klamath County, Oregon
+5	Klickitat County, Washington
+5	Knox County, Illinois
+5	Knox County, Missouri
+5	Knox County, Nebraska
+5	Knox County, Ohio
+5	Kootenai County, Idaho
+5	Kosciusko County, Indiana
+5	La Plata County, Colorado
+5	La Salle County, Illinois
+5	LaGrange County, Indiana
+5	LaPorte County, Indiana
+5	Lackawanna County, Pennsylvania
+5	Lake County, Illinois
+5	Lake County, Indiana
+5	Lake County, Ohio
+5	Lake County, Oregon
+5	Lancaster County, Nebraska
+5	Lancaster County, Pennsylvania
+5	Lander County, Nevada
+5	Lane County, Kansas
+5	Lapeer County, Michigan
+5	Larimer County, Colorado
+5	Lassen County, California
+5	Latah County, Idaho
+5	Lawrence County, Pennsylvania
+5	Lebanon County, Pennsylvania
+5	Lee County, Illinois
+5	Lee County, Iowa
+5	Lehigh County, Pennsylvania
+5	Lenawee County, Michigan
+5	Lewis County, Idaho
+5	Lewis County, Missouri
+5	Lewis County, West Virginia
+5	Licking County, Ohio
+5	Lincoln County, Colorado
+5	Lincoln County, Idaho
+5	Lincoln County, Nebraska
+5	Lincoln County, Nevada
+5	Lincoln County, Washington
+5	Linn County, Iowa
+5	Linn County, Missouri
+5	Litchfield County, Connecticut
+5	Livingston County, Illinois
+5	Livingston County, Michigan
+5	Livingston County, Missouri
+5	Livingston County, New York
+5	Logan County, Colorado
+5	Logan County, Illinois
+5	Logan County, Kansas
+5	Logan County, Nebraska
+5	Logan County, Ohio
+5	Lorain County, Ohio
+5	Los Alamos County, New Mexico
+5	Louisa County, Iowa
+5	Loup County, Nebraska
+5	Lucas County, Iowa
+5	Lucas County, Ohio
+5	Luzerne County, Pennsylvania
+5	Lycoming County, Pennsylvania
+5	Lyon County, Nevada
+5	Macomb County, Michigan
+5	Macon County, Illinois
+5	Macon County, Missouri
+5	Madison County, Indiana
+5	Madison County, Iowa
+5	Madison County, Nebraska
+5	Madison County, Ohio
+5	Mahaska County, Iowa
+5	Mahoning County, Ohio
+5	Malheur County, Oregon
+5	Marion County, Indiana
+5	Marion County, Iowa
+5	Marion County, Missouri
+5	Marion County, Ohio
+5	Marion County, West Virginia
+5	Marshall County, Illinois
+5	Marshall County, Indiana
+5	Marshall County, Iowa
+5	Marshall County, West Virginia
+5	Mason County, Illinois
+5	McDonough County, Illinois
+5	McHenry County, Illinois
+5	McKinley County, New Mexico
+5	McLean County, Illinois
+5	McPherson County, Nebraska
+5	Medina County, Ohio
+5	Meigs County, Ohio
+5	Mellette County, South Dakota
+5	Menard County, Illinois
+5	Mercer County, Illinois
+5	Mercer County, Missouri
+5	Mercer County, New Jersey
+5	Mercer County, Ohio
+5	Mercer County, Pennsylvania
+5	Merrick County, Nebraska
+5	Mesa County, Colorado
+5	Miami County, Indiana
+5	Miami County, Ohio
+5	Middlesex County, Connecticut
+5	Middlesex County, Massachusetts
+5	Midland County, Michigan
+5	Mifflin County, Pennsylvania
+5	Millard County, Utah
+5	Mills County, Iowa
+5	Mineral County, Nevada
+5	Mineral County, West Virginia
+5	Minidoka County, Idaho
+5	Mitchell County, Kansas
+5	Mitchell County, North Carolina
+5	Modoc County, California
+5	Monona County, Iowa
+5	Monongalia County, West Virginia
+5	Monroe County, Iowa
+5	Monroe County, Michigan
+5	Monroe County, New York
+5	Monroe County, Ohio
+5	Monroe County, Pennsylvania
+5	Montcalm County, Michigan
+5	Montezuma County, Colorado
+5	Montgomery County, Indiana
+5	Montgomery County, Iowa
+5	Montgomery County, Ohio
+5	Montour County, Pennsylvania
+5	Montrose County, Colorado
+5	Mora County, New Mexico
+5	Morgan County, Colorado
+5	Morgan County, Illinois
+5	Morgan County, Indiana
+5	Morgan County, Ohio
+5	Morrill County, Nebraska
+5	Morris County, New Jersey
+5	Morrow County, Ohio
+5	Morrow County, Oregon
+5	Moultrie County, Illinois
+5	Muscatine County, Iowa
+5	Muskegon County, Michigan
+5	Muskingum County, Ohio
+5	Nance County, Nebraska
+5	Nantucket County, Massachusetts
+5	Navajo County, Arizona
+5	Nemaha County, Nebraska
+5	Ness County, Kansas
+5	Nevada County, California
+5	New Haven County, Connecticut
+5	New London County, Connecticut
+5	Newport County, Rhode Island
+5	Newton County, Indiana
+5	Nez Perce County, Idaho
+5	Niagara County, New York
+5	Nicholas County, West Virginia
+5	Noble County, Indiana
+5	Noble County, Ohio
+5	Nodaway County, Missouri
+5	Norfolk County, Massachusetts
+5	Northampton County, Pennsylvania
+5	Northumberland County, Pennsylvania
+5	Norton County, Kansas
+5	Nuckolls County, Nebraska
+5	Nye County, Nevada
+5	Oakland County, Michigan
+5	Ogle County, Illinois
+5	Ohio County, West Virginia
+5	Onondaga County, New York
+5	Ontario County, New York
+5	Orange County, New York
+5	Orleans County, New York
+5	Osborne County, Kansas
+5	Oswego County, New York
+5	Otoe County, Nebraska
+5	Ottawa County, Michigan
+5	Ottawa County, Ohio
+5	Owen County, Indiana
+5	Owyhee County, Idaho
+5	Page County, Iowa
+5	Parke County, Indiana
+5	Passaic County, New Jersey
+5	Paulding County, Ohio
+5	Pawnee County, Nebraska
+5	Payette County, Idaho
+5	Pendleton County, West Virginia
+5	Peoria County, Illinois
+5	Perkins County, Nebraska
+5	Perry County, Ohio
+5	Perry County, Pennsylvania
+5	Pershing County, Nevada
+5	Phelps County, Nebraska
+5	Phillips County, Colorado
+5	Phillips County, Kansas
+5	Piatt County, Illinois
+5	Pickaway County, Ohio
+5	Pierce County, Nebraska
+5	Pike County, Illinois
+5	Pike County, Missouri
+5	Pike County, Pennsylvania
+5	Piute County, Utah
+5	Platte County, Nebraska
+5	Platte County, Wyoming
+5	Plumas County, California
+5	Plymouth County, Massachusetts
+5	Pocahontas County, West Virginia
+5	Polk County, Iowa
+5	Polk County, Nebraska
+5	Portage County, Ohio
+5	Porter County, Indiana
+5	Pottawattamie County, Iowa
+5	Power County, Idaho
+5	Poweshiek County, Iowa
+5	Preble County, Ohio
+5	Preston County, West Virginia
+5	Providence County, Rhode Island
+5	Prowers County, Colorado
+5	Pueblo County, Colorado
+5	Pulaski County, Indiana
+5	Putnam County, Illinois
+5	Putnam County, Indiana
+5	Putnam County, Missouri
+5	Putnam County, New York
+5	Putnam County, Ohio
+5	Raleigh County, West Virginia
+5	Ralls County, Missouri
+5	Randolph County, Indiana
+5	Randolph County, West Virginia
+5	Rawlins County, Kansas
+5	Red Willow County, Nebraska
+5	Rensselaer County, New York
+5	Republic County, Kansas
+5	Richardson County, Nebraska
+5	Richland County, Ohio
+5	Ringgold County, Iowa
+5	Rio Arriba County, New Mexico
+5	Rock County, Nebraska
+5	Rock Island County, Illinois
+5	Rockingham County, New Hampshire
+5	Rockland County, New York
+5	Rooks County, Kansas
+5	Ross County, Ohio
+5	Rush County, Indiana
+5	Saginaw County, Michigan
+5	Saline County, Nebraska
+5	Salt Lake County, Utah
+5	San Juan County, New Mexico
+5	San Juan County, Utah
+5	San Juan County, Washington
+5	San Miguel County, New Mexico
+5	Sandoval County, New Mexico
+5	Sandusky County, Ohio
+5	Sangamon County, Illinois
+5	Sanpete County, Utah
+5	Santa Fe County, New Mexico
+5	Saratoga County, New York
+5	Sarpy County, Nebraska
+5	Saunders County, Nebraska
+5	Schenectady County, New York
+5	Schuyler County, Illinois
+5	Schuyler County, Missouri
+5	Schuylkill County, Pennsylvania
+5	Scotland County, Missouri
+5	Scott County, Illinois
+5	Scott County, Iowa
+5	Scott County, Kansas
+5	Scotts Bluff County, Nebraska
+5	Sedgwick County, Colorado
+5	Seneca County, New York
+5	Seneca County, Ohio
+5	Sevier County, Utah
+5	Seward County, Nebraska
+5	Shelby County, Indiana
+5	Shelby County, Iowa
+5	Shelby County, Missouri
+5	Shelby County, Ohio
+5	Sheridan County, Kansas
+5	Sheridan County, Nebraska
+5	Sherman County, Kansas
+5	Sherman County, Nebraska
+5	Sherman County, Oregon
+5	Shiawassee County, Michigan
+5	Shoshone County, Idaho
+5	Sierra County, California
+5	Sioux County, Nebraska
+5	Siskiyou County, California
+5	Skamania County, Washington
+5	Smith County, Kansas
+5	Snyder County, Pennsylvania
+5	Somerset County, New Jersey
+5	Somerset County, Pennsylvania
+5	Spokane County, Washington
+5	St. Clair County, Michigan
+5	St. Joseph County, Indiana
+5	St. Joseph County, Michigan
+5	Stanton County, Nebraska
+5	Stark County, Illinois
+5	Stark County, Ohio
+5	Starke County, Indiana
+5	Stephenson County, Illinois
+5	Steuben County, Indiana
+5	Storey County, Nevada
+5	Story County, Iowa
+5	Strafford County, New Hampshire
+5	Suffolk County, Massachusetts
+5	Sullivan County, Missouri
+5	Sullivan County, Pennsylvania
+5	Summers County, West Virginia
+5	Summit County, Ohio
+5	Susquehanna County, Pennsylvania
+5	Sussex County, New Jersey
+5	Tama County, Iowa
+5	Taos County, New Mexico
+5	Taylor County, Iowa
+5	Taylor County, West Virginia
+5	Tazewell County, Illinois
+5	Teller County, Colorado
+5	Thayer County, Nebraska
+5	Thomas County, Kansas
+5	Thomas County, Nebraska
+5	Thurston County, Nebraska
+5	Tioga County, New York
+5	Tippecanoe County, Indiana
+5	Tipton County, Indiana
+5	Todd County, South Dakota
+5	Tolland County, Connecticut
+5	Tooele County, Utah
+5	Torrance County, New Mexico
+5	Trego County, Kansas
+5	Tripp County, South Dakota
+5	Trumbull County, Ohio
+5	Tucker County, West Virginia
+5	Tuscarawas County, Ohio
+5	Tuscola County, Michigan
+5	Twin Falls County, Idaho
+5	Umatilla County, Oregon
+5	Union County, Indiana
+5	Union County, Iowa
+5	Union County, Ohio
+5	Union County, Oregon
+5	Union County, Pennsylvania
+5	Union County, South Dakota
+5	Upshur County, West Virginia
+5	Utah County, Utah
+5	Valley County, Nebraska
+5	Van Buren County, Iowa
+5	Van Buren County, Michigan
+5	Van Wert County, Ohio
+5	Venango County, Pennsylvania
+5	Vermilion County, Illinois
+5	Vermillion County, Indiana
+5	Vigo County, Indiana
+5	Vinton County, Ohio
+5	Wabash County, Indiana
+5	Walla Walla County, Washington
+5	Wallace County, Kansas
+5	Wallowa County, Oregon
+5	Wapello County, Iowa
+5	Warren County, Illinois
+5	Warren County, Indiana
+5	Warren County, Iowa
+5	Warren County, New Jersey
+5	Warren County, Ohio
+5	Warren County, Pennsylvania
+5	Wasco County, Oregon
+5	Washington County, Colorado
+5	Washington County, Idaho
+5	Washington County, Iowa
+5	Washington County, Nebraska
+5	Washington County, New York
+5	Washington County, Pennsylvania
+5	Washington County, Rhode Island
+5	Washoe County, Nevada
+5	Washtenaw County, Michigan
+5	Watauga County, North Carolina
+5	Wayne County, Indiana
+5	Wayne County, Iowa
+5	Wayne County, Michigan
+5	Wayne County, Nebraska
+5	Wayne County, New York
+5	Wayne County, Ohio
+5	Wayne County, Pennsylvania
+5	Wayne County, Utah
+5	Weber County, Utah
+5	Webster County, Nebraska
+5	Webster County, West Virginia
+5	Weld County, Colorado
+5	Wells County, Indiana
+5	Westmoreland County, Pennsylvania
+5	Wetzel County, West Virginia
+5	Wheeler County, Nebraska
+5	Wheeler County, Oregon
+5	White County, Indiana
+5	White Pine County, Nevada
+5	Whiteside County, Illinois
+5	Whitley County, Indiana
+5	Whitman County, Washington
+5	Wichita County, Kansas
+5	Will County, Illinois
+5	Williams County, Ohio
+5	Windham County, Connecticut
+5	Winnebago County, Illinois
+5	Wood County, Ohio
+5	Woodbury County, Iowa
+5	Woodford County, Illinois
+5	Worcester County, Massachusetts
+5	Worth County, Missouri
+5	Wyandot County, Ohio
+5	Wyoming County, Pennsylvania
+5	Yakima County, Washington
+5	Yancey County, North Carolina
+5	Yankton County, South Dakota
+5	Yates County, New York
+5	York County, Nebraska
+5	Yuma County, Colorado
+6	Adams County, Idaho
+6	Adams County, North Dakota
+6	Adams County, Wisconsin
+6	Addison County, Vermont
+6	Alamosa County, Colorado
+6	Albany County, Wyoming
+6	Alcona County, Michigan
+6	Alger County, Michigan
+6	Allamakee County, Iowa
+6	Allegany County, New York
+6	Alpena County, Michigan
+6	Alpine County, California
+6	Androscoggin County, Maine
+6	Anoka County, Minnesota
+6	Antrim County, Michigan
+6	Archuleta County, Colorado
+6	Arenac County, Michigan
+6	Aurora County, South Dakota
+6	Bannock County, Idaho
+6	Barron County, Wisconsin
+6	Beadle County, South Dakota
+6	Bear Lake County, Idaho
+6	Beaverhead County, Montana
+6	Belknap County, New Hampshire
+6	Bennington County, Vermont
+6	Benton County, Minnesota
+6	Benzie County, Michigan
+6	Big Horn County, Montana
+6	Big Horn County, Wyoming
+6	Big Stone County, Minnesota
+6	Billings County, North Dakota
+6	Bingham County, Idaho
+6	Black Hawk County, Iowa
+6	Blaine County, Idaho
+6	Blaine County, Montana
+6	Blue Earth County, Minnesota
+6	Boise County, Idaho
+6	Bonner County, Idaho
+6	Bonneville County, Idaho
+6	Boundary County, Idaho
+6	Bowman County, North Dakota
+6	Box Elder County, Utah
+6	Bremer County, Iowa
+6	Broadwater County, Montana
+6	Brookings County, South Dakota
+6	Broome County, New York
+6	Brown County, Minnesota
+6	Brown County, South Dakota
+6	Brown County, Wisconsin
+6	Brule County, South Dakota
+6	Buchanan County, Iowa
+6	Buena Vista County, Iowa
+6	Buffalo County, South Dakota
+6	Buffalo County, Wisconsin
+6	Burleigh County, North Dakota
+6	Butler County, Iowa
+6	Butte County, Idaho
+6	Butte County, South Dakota
+6	Cache County, Utah
+6	Caledonia County, Vermont
+6	Calhoun County, Iowa
+6	Calumet County, Wisconsin
+6	Camas County, Idaho
+6	Cameron County, Pennsylvania
+6	Campbell County, South Dakota
+6	Campbell County, Wyoming
+6	Carbon County, Montana
+6	Carbon County, Utah
+6	Carbon County, Wyoming
+6	Caribou County, Idaho
+6	Carroll County, New Hampshire
+6	Carter County, Montana
+6	Carver County, Minnesota
+6	Cascade County, Montana
+6	Cattaraugus County, New York
+6	Cerro Gordo County, Iowa
+6	Chaffee County, Colorado
+6	Charlevoix County, Michigan
+6	Cheboygan County, Michigan
+6	Chenango County, New York
+6	Cherokee County, Iowa
+6	Chickasaw County, Iowa
+6	Chippewa County, Minnesota
+6	Chippewa County, Wisconsin
+6	Chisago County, Minnesota
+6	Chittenden County, Vermont
+6	Chouteau County, Montana
+6	Clare County, Michigan
+6	Clark County, Idaho
+6	Clark County, South Dakota
+6	Clark County, Wisconsin
+6	Clay County, Iowa
+6	Clayton County, Iowa
+6	Clearfield County, Pennsylvania
+6	Clinton County, New York
+6	Codington County, South Dakota
+6	Columbia County, Wisconsin
+6	Conejos County, Colorado
+6	Converse County, Wyoming
+6	Coos County, New Hampshire
+6	Corson County, South Dakota
+6	Costilla County, Colorado
+6	Cottonwood County, Minnesota
+6	Crawford County, Michigan
+6	Crawford County, Wisconsin
+6	Crook County, Wyoming
+6	Cumberland County, Maine
+6	Custer County, Colorado
+6	Custer County, Idaho
+6	Custer County, Montana
+6	Custer County, South Dakota
+6	Daggett County, Utah
+6	Dakota County, Minnesota
+6	Dane County, Wisconsin
+6	Daniels County, Montana
+6	Davison County, South Dakota
+6	Dawson County, Montana
+6	Day County, South Dakota
+6	Deer Lodge County, Montana
+6	Delaware County, Iowa
+6	Delaware County, New York
+6	Delta County, Michigan
+6	Deuel County, South Dakota
+6	Dewey County, South Dakota
+6	Dickey County, North Dakota
+6	Dickinson County, Iowa
+6	Dickinson County, Michigan
+6	Dodge County, Minnesota
+6	Dodge County, Wisconsin
+6	Dolores County, Colorado
+6	Door County, Wisconsin
+6	Douglas County, Minnesota
+6	Duchesne County, Utah
+6	Dunn County, North Dakota
+6	Dunn County, Wisconsin
+6	Eagle County, Colorado
+6	Eau Claire County, Wisconsin
+6	Edmunds County, South Dakota
+6	Elk County, Pennsylvania
+6	Emmet County, Iowa
+6	Emmet County, Michigan
+6	Emmons County, North Dakota
+6	Essex County, New York
+6	Essex County, Vermont
+6	Fall River County, South Dakota
+6	Fallon County, Montana
+6	Faribault County, Minnesota
+6	Faulk County, South Dakota
+6	Fayette County, Iowa
+6	Fergus County, Montana
+6	Ferry County, Washington
+6	Fillmore County, Minnesota
+6	Flathead County, Montana
+6	Floyd County, Iowa
+6	Fond du Lac County, Wisconsin
+6	Franklin County, Idaho
+6	Franklin County, Iowa
+6	Franklin County, Maine
+6	Franklin County, New York
+6	Franklin County, Vermont
+6	Freeborn County, Minnesota
+6	Fremont County, Idaho
+6	Fremont County, Wyoming
+6	Fulton County, New York
+6	Gallatin County, Montana
+6	Garfield County, Montana
+6	Glacier County, Montana
+6	Gladwin County, Michigan
+6	Golden Valley County, Montana
+6	Golden Valley County, North Dakota
+6	Goodhue County, Minnesota
+6	Grafton County, New Hampshire
+6	Grand Isle County, Vermont
+6	Grand Traverse County, Michigan
+6	Granite County, Montana
+6	Grant County, North Dakota
+6	Grant County, South Dakota
+6	Grant County, Wisconsin
+6	Green County, Wisconsin
+6	Green Lake County, Wisconsin
+6	Grundy County, Iowa
+6	Haakon County, South Dakota
+6	Hamilton County, Iowa
+6	Hamilton County, New York
+6	Hamlin County, South Dakota
+6	Hancock County, Iowa
+6	Hancock County, Maine
+6	Hand County, South Dakota
+6	Hanson County, South Dakota
+6	Hardin County, Iowa
+6	Harding County, South Dakota
+6	Hennepin County, Minnesota
+6	Herkimer County, New York
+6	Hettinger County, North Dakota
+6	Hill County, Montana
+6	Hot Springs County, Wyoming
+6	Houston County, Minnesota
+6	Howard County, Iowa
+6	Hughes County, South Dakota
+6	Humboldt County, Iowa
+6	Huron County, Michigan
+6	Hyde County, South Dakota
+6	Ida County, Iowa
+6	Iosco County, Michigan
+6	Iowa County, Wisconsin
+6	Isabella County, Michigan
+6	Isanti County, Minnesota
+6	Jackson County, Minnesota
+6	Jackson County, Wisconsin
+6	Jefferson County, Idaho
+6	Jefferson County, Montana
+6	Jefferson County, New York
+6	Jefferson County, Wisconsin
+6	Jerauld County, South Dakota
+6	Johnson County, Wyoming
+6	Jones County, South Dakota
+6	Judith Basin County, Montana
+6	Juneau County, Wisconsin
+6	Kalkaska County, Michigan
+6	Kandiyohi County, Minnesota
+6	Kennebec County, Maine
+6	Kenosha County, Wisconsin
+6	Kewaunee County, Wisconsin
+6	Kingsbury County, South Dakota
+6	Knox County, Maine
+6	Kossuth County, Iowa
+6	La Crosse County, Wisconsin
+6	LaMoure County, North Dakota
+6	Lac qui Parle County, Minnesota
+6	Lafayette County, Wisconsin
+6	Lake County, Michigan
+6	Lake County, Montana
+6	Lake County, South Dakota
+6	Lamoille County, Vermont
+6	Laramie County, Wyoming
+6	Lawrence County, South Dakota
+6	Le Sueur County, Minnesota
+6	Leelanau County, Michigan
+6	Lemhi County, Idaho
+6	Lewis County, New York
+6	Lewis and Clark County, Montana
+6	Liberty County, Montana
+6	Lincoln County, Maine
+6	Lincoln County, Minnesota
+6	Lincoln County, Montana
+6	Lincoln County, South Dakota
+6	Logan County, North Dakota
+6	Lyman County, South Dakota
+6	Lyon County, Iowa
+6	Lyon County, Minnesota
+6	Madison County, Idaho
+6	Madison County, Montana
+6	Madison County, New York
+6	Manistee County, Michigan
+6	Manitowoc County, Wisconsin
+6	Marathon County, Wisconsin
+6	Marinette County, Wisconsin
+6	Marquette County, Michigan
+6	Marquette County, Wisconsin
+6	Marshall County, South Dakota
+6	Martin County, Minnesota
+6	Mason County, Michigan
+6	McCone County, Montana
+6	McCook County, South Dakota
+6	McIntosh County, North Dakota
+6	McKean County, Pennsylvania
+6	McKenzie County, North Dakota
+6	McLeod County, Minnesota
+6	McPherson County, South Dakota
+6	Meade County, South Dakota
+6	Meagher County, Montana
+6	Mecosta County, Michigan
+6	Meeker County, Minnesota
+6	Menominee County, Michigan
+6	Menominee County, Wisconsin
+6	Mercer County, North Dakota
+6	Merrimack County, New Hampshire
+6	Milwaukee County, Wisconsin
+6	Miner County, South Dakota
+6	Mineral County, Montana
+6	Minnehaha County, South Dakota
+6	Missaukee County, Michigan
+6	Missoula County, Montana
+6	Mitchell County, Iowa
+6	Moffat County, Colorado
+6	Mono County, California
+6	Monroe County, Wisconsin
+6	Montgomery County, New York
+6	Montmorency County, Michigan
+6	Moody County, South Dakota
+6	Morgan County, Utah
+6	Morrison County, Minnesota
+6	Morton County, North Dakota
+6	Mower County, Minnesota
+6	Murray County, Minnesota
+6	Musselshell County, Montana
+6	Natrona County, Wyoming
+6	Newaygo County, Michigan
+6	Nicollet County, Minnesota
+6	Niobrara County, Wyoming
+6	Nobles County, Minnesota
+6	O'Brien County, Iowa
+6	Oceana County, Michigan
+6	Oconto County, Wisconsin
+6	Ogemaw County, Michigan
+6	Okanogan County, Washington
+6	Oliver County, North Dakota
+6	Olmsted County, Minnesota
+6	Oneida County, Idaho
+6	Oneida County, New York
+6	Orange County, Vermont
+6	Orleans County, Vermont
+6	Osceola County, Iowa
+6	Osceola County, Michigan
+6	Oscoda County, Michigan
+6	Otsego County, Michigan
+6	Otsego County, New York
+6	Ouray County, Colorado
+6	Outagamie County, Wisconsin
+6	Oxford County, Maine
+6	Ozaukee County, Wisconsin
+6	Palo Alto County, Iowa
+6	Park County, Montana
+6	Park County, Wyoming
+6	Pend Oreille County, Washington
+6	Pennington County, South Dakota
+6	Penobscot County, Maine
+6	Pepin County, Wisconsin
+6	Perkins County, South Dakota
+6	Petroleum County, Montana
+6	Phillips County, Montana
+6	Pierce County, Wisconsin
+6	Pipestone County, Minnesota
+6	Piscataquis County, Maine
+6	Plymouth County, Iowa
+6	Pocahontas County, Iowa
+6	Polk County, Wisconsin
+6	Pondera County, Montana
+6	Pope County, Minnesota
+6	Portage County, Wisconsin
+6	Potter County, Pennsylvania
+6	Potter County, South Dakota
+6	Powder River County, Montana
+6	Powell County, Montana
+6	Prairie County, Montana
+6	Presque Isle County, Michigan
+6	Racine County, Wisconsin
+6	Ramsey County, Minnesota
+6	Ransom County, North Dakota
+6	Ravalli County, Montana
+6	Redwood County, Minnesota
+6	Renville County, Minnesota
+6	Rice County, Minnesota
+6	Rich County, Utah
+6	Richland County, Montana
+6	Richland County, North Dakota
+6	Richland County, Wisconsin
+6	Rio Blanco County, Colorado
+6	Roberts County, South Dakota
+6	Rock County, Minnesota
+6	Rock County, Wisconsin
+6	Roosevelt County, Montana
+6	Roscommon County, Michigan
+6	Rosebud County, Montana
+6	Rusk County, Wisconsin
+6	Rutland County, Vermont
+6	Sac County, Iowa
+6	Sagadahoc County, Maine
+6	Saguache County, Colorado
+6	San Miguel County, Colorado
+6	Sanborn County, South Dakota
+6	Sanders County, Montana
+6	Sanilac County, Michigan
+6	Sargent County, North Dakota
+6	Sauk County, Wisconsin
+6	Schoharie County, New York
+6	Schuyler County, New York
+6	Scott County, Minnesota
+6	Shannon County, South Dakota
+6	Shawano County, Wisconsin
+6	Sheboygan County, Wisconsin
+6	Sherburne County, Minnesota
+6	Sheridan County, Montana
+6	Sheridan County, Wyoming
+6	Sibley County, Minnesota
+6	Silver Bow County, Montana
+6	Sioux County, Iowa
+6	Sioux County, North Dakota
+6	Slope County, North Dakota
+6	Somerset County, Maine
+6	Spink County, South Dakota
+6	St. Croix County, Wisconsin
+6	St. Lawrence County, New York
+6	Stanley County, South Dakota
+6	Stark County, North Dakota
+6	Stearns County, Minnesota
+6	Steele County, Minnesota
+6	Steuben County, New York
+6	Stevens County, Minnesota
+6	Stevens County, Washington
+6	Stillwater County, Montana
+6	Sullivan County, New Hampshire
+6	Sullivan County, New York
+6	Sully County, South Dakota
+6	Summit County, Utah
+6	Sweet Grass County, Montana
+6	Sweetwater County, Wyoming
+6	Swift County, Minnesota
+6	Teton County, Idaho
+6	Teton County, Montana
+6	Tioga County, Pennsylvania
+6	Todd County, Minnesota
+6	Tompkins County, New York
+6	Toole County, Montana
+6	Traverse County, Minnesota
+6	Treasure County, Montana
+6	Trempealeau County, Wisconsin
+6	Turner County, South Dakota
+6	Uinta County, Wyoming
+6	Uintah County, Utah
+6	Ulster County, New York
+6	Valley County, Idaho
+6	Valley County, Montana
+6	Vernon County, Wisconsin
+6	Wabasha County, Minnesota
+6	Waldo County, Maine
+6	Walworth County, South Dakota
+6	Walworth County, Wisconsin
+6	Warren County, New York
+6	Wasatch County, Utah
+6	Waseca County, Minnesota
+6	Washakie County, Wyoming
+6	Washington County, Maine
+6	Washington County, Minnesota
+6	Washington County, Vermont
+6	Washington County, Wisconsin
+6	Watonwan County, Minnesota
+6	Waukesha County, Wisconsin
+6	Waupaca County, Wisconsin
+6	Waushara County, Wisconsin
+6	Webster County, Iowa
+6	Weston County, Wyoming
+6	Wexford County, Michigan
+6	Wheatland County, Montana
+6	Wibaux County, Montana
+6	Windham County, Vermont
+6	Windsor County, Vermont
+6	Winnebago County, Iowa
+6	Winnebago County, Wisconsin
+6	Winneshiek County, Iowa
+6	Winona County, Minnesota
+6	Wood County, Wisconsin
+6	Worth County, Iowa
+6	Wright County, Iowa
+6	Wright County, Minnesota
+6	Wyoming County, New York
+6	Yellow Medicine County, Minnesota
+6	Yellowstone County, Montana
+6	York County, Maine
+6	Ziebach County, South Dakota
+7	Aitkin County, Minnesota
+7	Aleutians East Borough, Alaska
+7	Aleutians West Census Area, Alaska
+7	Anchorage Borough, Alaska
+7	Aroostook County, Maine
+7	Ashland County, Wisconsin
+7	Baraga County, Michigan
+7	Barnes County, North Dakota
+7	Bayfield County, Wisconsin
+7	Becker County, Minnesota
+7	Beltrami County, Minnesota
+7	Benson County, North Dakota
+7	Bottineau County, North Dakota
+7	Bristol Bay Borough, Alaska
+7	Burke County, North Dakota
+7	Burnett County, Wisconsin
+7	Carlton County, Minnesota
+7	Cass County, Minnesota
+7	Cass County, North Dakota
+7	Cavalier County, North Dakota
+7	Chippewa County, Michigan
+7	Clay County, Minnesota
+7	Clear Creek County, Colorado
+7	Clearwater County, Minnesota
+7	Cook County, Minnesota
+7	Crow Wing County, Minnesota
+7	Denali Borough, Alaska
+7	Divide County, North Dakota
+7	Douglas County, Wisconsin
+7	Eddy County, North Dakota
+7	Florence County, Wisconsin
+7	Forest County, Wisconsin
+7	Foster County, North Dakota
+7	Gogebic County, Michigan
+7	Grand County, Colorado
+7	Grand Forks County, North Dakota
+7	Grant County, Minnesota
+7	Griggs County, North Dakota
+7	Gunnison County, Colorado
+7	Haines Borough, Alaska
+7	Hinsdale County, Colorado
+7	Houghton County, Michigan
+7	Hubbard County, Minnesota
+7	Iron County, Michigan
+7	Iron County, Wisconsin
+7	Itasca County, Minnesota
+7	Jackson County, Colorado
+7	Juneau City and Borough, Alaska
+7	Kanabec County, Minnesota
+7	Kenai Peninsula Borough, Alaska
+7	Ketchikan Gateway Borough, Alaska
+7	Keweenaw County, Michigan
+7	Kidder County, North Dakota
+7	Kittson County, Minnesota
+7	Kodiak Island Borough, Alaska
+7	Koochiching County, Minnesota
+7	Lake County, Colorado
+7	Lake County, Minnesota
+7	Lake and Peninsula Borough, Alaska
+7	Lake of the Woods County, Minnesota
+7	Langlade County, Wisconsin
+7	Lincoln County, Wisconsin
+7	Lincoln County, Wyoming
+7	Luce County, Michigan
+7	Mackinac County, Michigan
+7	Mahnomen County, Minnesota
+7	Marshall County, Minnesota
+7	Matanuska-Susitna Borough, Alaska
+7	McHenry County, North Dakota
+7	McLean County, North Dakota
+7	Mille Lacs County, Minnesota
+7	Mineral County, Colorado
+7	Mountrail County, North Dakota
+7	Nelson County, North Dakota
+7	Norman County, Minnesota
+7	Oneida County, Wisconsin
+7	Ontonagon County, Michigan
+7	Otter Tail County, Minnesota
+7	Park County, Colorado
+7	Pembina County, North Dakota
+7	Pennington County, Minnesota
+7	Pierce County, North Dakota
+7	Pine County, Minnesota
+7	Pitkin County, Colorado
+7	Polk County, Minnesota
+7	Price County, Wisconsin
+7	Prince of Wales-Outer Ketchikan Census Area, Alaska
+7	Ramsey County, North Dakota
+7	Red Lake County, Minnesota
+7	Renville County, North Dakota
+7	Rio Grande County, Colorado
+7	Rolette County, North Dakota
+7	Roseau County, Minnesota
+7	Routt County, Colorado
+7	San Juan County, Colorado
+7	Sawyer County, Wisconsin
+7	Schoolcraft County, Michigan
+7	Sheridan County, North Dakota
+7	Sitka City and Borough, Alaska
+7	Skagway-Hoonah-Angoon Census Area, Alaska
+7	St. Louis County, Minnesota
+7	Steele County, North Dakota
+7	Stutsman County, North Dakota
+7	Sublette County, Wyoming
+7	Summit County, Colorado
+7	Taylor County, Wisconsin
+7	Teton County, Wyoming
+7	Towner County, North Dakota
+7	Traill County, North Dakota
+7	Valdez-Cordova Census Area, Alaska
+7	Vilas County, Wisconsin
+7	Wadena County, Minnesota
+7	Walsh County, North Dakota
+7	Ward County, North Dakota
+7	Washburn County, Wisconsin
+7	Wells County, North Dakota
+7	Wilkin County, Minnesota
+7	Williams County, North Dakota
+7	Wrangell-Petersburg Census Area, Alaska
+7	Yakutat City and Borough, Alaska
+8	Bethel Census Area, Alaska
+8	Dillingham Census Area, Alaska
+8	Fairbanks North Star Borough, Alaska
+8	Nome Census Area, Alaska
+8	North Slope Borough, Alaska
+8	Northwest Arctic Borough, Alaska
+8	Southeast Fairbanks Census Area, Alaska
+8	Wade Hampton Census Area, Alaska
+8	Yukon-Koyukuk Census Area, Alaska
